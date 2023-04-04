@@ -1,0 +1,281 @@
+{
+  "widget_wplms_instructor_students_widget": {
+    "_multiwidget": 1
+  },
+  "wplms_group_types": [
+    {
+      "id": "science",
+      "sname": "Science",
+      "pname": "science"
+    },
+    {
+      "id": "maths",
+      "sname": "Maths",
+      "pname": "maths"
+    },
+    {
+      "id": "economics",
+      "sname": "Economics",
+      "pname": ""
+    },
+    {
+      "id": "politics",
+      "sname": "Politics",
+      "pname": ""
+    },
+    {
+      "id": "arts",
+      "sname": "Arts",
+      "pname": ""
+    }
+  ],
+  "theme_mods_wplmsblankchildhtheme": {
+    "0": false,
+    "nav_menu_locations": {
+      "footer-menu": 78,
+      "main-menu": 74,
+      "top-menu": 75
+    },
+    "custom_css_post_id": -1,
+    "sidebars_widgets": {
+      "time": 1512116136,
+      "data": {
+        "wp_inactive_widgets": [
+          "archives-2",
+          "meta-2",
+          "categories-2",
+          "recent-posts-2",
+          "recent-comments-2"
+        ],
+        "mainsidebar": {
+          "0": "vibetabs-2",
+          "1": "search-2",
+          "3": "tag_cloud-2",
+          "4": "vibegallery-2"
+        },
+        "bbpress": [],
+        "coursesidebar": {
+          "3": "vibe_course_categories-2",
+          "4": "vibeposts-2"
+        },
+        "searchsidebar": {
+          "1": "vibe_course_categories-3",
+          "2": "vibetestimonials-2"
+        },
+        "shopsidebar": [
+          "woocommerce_price_filter-2",
+          "woocommerce_layered_nav_filters-2",
+          "woocommerce_layered_nav-2",
+          "vibe_woocommerce_carousels-3"
+        ],
+        "productsidebar": {
+          "0": "vibe_course_categories-4",
+          "2": "woocommerce_product_categories-2",
+          "3": "woocommerce_products-2"
+        },
+        "buddypress": {
+          "2": "vibe_course_categories-5"
+        },
+        "checkout": [
+          "vibe_woocommerce_carousels-2",
+          "woocommerce_products-3"
+        ],
+        "topfootersidebar": {
+          "0": "text-2",
+          "3": "text-3"
+        },
+        "bottomfootersidebar": [
+          "vibe_course_categories-6",
+          "vibecertificatecode-2",
+          "tag_cloud-3",
+          "bp_core_whos_online_widget-2"
+        ]
+      }
+    }
+  },
+  "wplms": {
+    "last_tab": "1",
+    "username": "",
+    "logo": "http://wplms.io/demos/demo9/wp-content/themes/wplms/assets/images/logo.png",
+    "mobile_logo": "http://wplms.io/demos/demo9/wp-content/themes/wplms/assets/images/logo.png",
+    "alt_logo": "http://wplms.io/demos/demo9/wp-content/themes/wplms/assets/images/logo.png",
+    "favicon": "http://wplms.io/demos/demo9/wp-content/themes/wplms/assets/images/favicon.png",
+    "header_fix": "0",
+    "course_search": "0",
+    "headertop_content": "Need Help? Call us Today <span class=\"callin\">(00)123 456 789</span>",
+    "header_content": "",
+    "title_bg": "transparent",
+    "title_color": "#ffffff",
+    "sidebars": [
+      "MEGAMENU1"
+    ],
+    "events_sidebar": "mainsidebar",
+    "default_avatar": "http://wplms.io/demos/demo9/wp-content/themes/wplms/assets/images/avatar.jpg",
+    "hide_wp_admin_bar": "",
+    "wp_admin_access": "",
+    "loop_number": "5",
+    "members_view": "0",
+    "single_member_view": "0",
+    "single_member_controls": "",
+    "members_redirect": "",
+    "activity_view": "0",
+    "student_activity": "",
+    "activity_redirect": "",
+    "group_view": "0",
+    "group_redirect": "",
+    "group_create": "1",
+    "blog_create": "1",
+    "members_activity": "0",
+    "activity_tab": "0",
+    "groups_tab": "0",
+    "forums_tab": "0",
+    "activation_redirect": "",
+    "student_field": "Location",
+    "instructor_field_group": "Instructor",
+    "instructor_field": "Speciality",
+    "social_field_group": "Social Profiles",
+    "instructor_paypal_field": "",
+    "instructor_about": "About",
+    "enable_ajax_registration_login": "",
+    "custom_registration_page": "",
+    "unit_comments": "",
+    "sync_student_count": "0",
+    "tab_style_course_layout": "0",
+    "disable_contextmenu_course_status": "0",
+    "course_status_template": "fullscreen",
+    "nextunit_access": "0",
+    "unit_media_lock": "0",
+    "assignment_locking": "0",
+    "course_progressbar": "0",
+    "instructor_add_students": "1",
+    "instructor_change_status": "0",
+    "instructor_assign_badges": "1",
+    "instructor_extend_subscription": "1",
+    "instructor_content_privacy": "0",
+    "stats_visibility": "0",
+    "teacher_form": "",
+    "certificate_page": "",
+    "default_course_avatar": "",
+    "course_duration_display_parameter": "86400",
+    "finished_course_access": "",
+    "notes_style": "1",
+    "show_news": "",
+    "level": "",
+    "location": "",
+    "linkage": "0",
+    "redirect_course_cat_directory": "",
+    "related_courses": "1",
+    "google_fonts_api_key": "",
+    "google_fonts": [
+      "Playfair Display-regular-latin",
+      "Playfair Display-700-latin",
+      "Poppins-300-latin",
+      "Poppins-300italic-latin",
+      "Poppins-regular-latin",
+      "Poppins-600-latin"
+    ],
+    "top_footer_columns": "col-md-3 col-sm-6",
+    "bottom_footer_columns": "col-md-6 col-sm-6",
+    "footer_logo": "https://wplms.io/demos/demo12/wp-content/uploads/2018/10/logo_demo12.png",
+    "copyright": "Template Design © <a title=\"VibeCom\" href=\"http://www.vibethemes.com\">VibeThemes</a>. All rights reserved.",
+    "footerbottom_right": "1",
+    "google_analytics": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js\"></script>\r\n<script>\r\n$('.ml10 .letters').each(function(){\r\n  $(this).html($(this).text().replace(/([^\\x00-\\x80]|\\w)/g, \"<span class='letter'>$&</span>\"));\r\n});\r\n\r\nanime.timeline({loop: true})\r\n  .add({\r\n    targets: '.ml10 .letter',\r\n    rotateY: [-90, 0],\r\n    duration: 1300,\r\n    delay: function(el, i) {\r\n      return 45 * i;\r\n    }\r\n  }).add({\r\n    targets: '.ml10',\r\n    opacity: 0,\r\n    duration: 1000,\r\n    easing: \"easeOutExpo\",\r\n    delay: 1000\r\n  });\r\n</script>\r\n\r\n<script>\r\n\r\n$(document).ready(function() {\r\n  \r\n\r\n\t  \r\n    var numItems = $('li.fancyTab').length;\r\n\t\t\r\n\t\r\n\t\t\t  if (numItems == 12){\r\n\t\t\t\t\t$(\"li.fancyTab\").width('8.3%');\r\n\t\t\t\t}\r\n\t\t\t  if (numItems == 11){\r\n\t\t\t\t\t$(\"li.fancyTab\").width('9%');\r\n\t\t\t\t}\r\n\t\t\t  if (numItems == 10){\r\n\t\t\t\t\t$(\"li.fancyTab\").width('10%');\r\n\t\t\t\t}\r\n\t\t\t  if (numItems == 9){\r\n\t\t\t\t\t$(\"li.fancyTab\").width('11.1%');\r\n\t\t\t\t}\r\n\t\t\t  if (numItems == 8){\r\n\t\t\t\t\t$(\"li.fancyTab\").width('12.5%');\r\n\t\t\t\t}\r\n\t\t\t  if (numItems == 7){\r\n\t\t\t\t\t$(\"li.fancyTab\").width('14.2%');\r\n\t\t\t\t}\r\n\t\t\t  if (numItems == 6){\r\n\t\t\t\t\t$(\"li.fancyTab\").width('16.666666666666667%');\r\n\t\t\t\t}\r\n\t\t\t  if (numItems == 5){\r\n\t\t\t\t\t$(\"li.fancyTab\").width('20%');\r\n\t\t\t\t}\r\n\t\t\t  if (numItems == 4){\r\n\t\t\t\t\t$(\"li.fancyTab\").width('25%');\r\n\t\t\t\t}\r\n\t\t\t  if (numItems == 3){\r\n\t\t\t\t\t$(\"li.fancyTab\").width('33.3%');\r\n\t\t\t\t}\r\n\t\t\t  if (numItems == 2){\r\n\t\t\t\t\t$(\"li.fancyTab\").width('50%');\r\n\t\t\t\t}\r\n\t\t  \r\n\t \r\n\r\n\t\r\n\t\t});\r\n\r\n$(window).load(function() {\r\n\r\n  $('.fancyTabs').each(function() {\r\n\r\n    var highestBox = 0;\r\n    $('.fancyTab a', this).each(function() {\r\n\r\n      if ($(this).height() > highestBox)\r\n        highestBox = $(this).height();\r\n    });\r\n\r\n    $('.fancyTab a', this).height(highestBox);\r\n\r\n  });\r\n});\r\n</script>\r\n",
+    "social_icons": {
+      "social": [
+        "facebook",
+        "twitter",
+        "dribbble"
+      ],
+      "url": [
+        "#",
+        "#",
+        "#"
+      ]
+    },
+    "social_icons_type": "",
+    "show_social_tooltip": "1",
+    "tincan": "0",
+    "tincan_endpoint": "0",
+    "tincan_user": "0",
+    "tincan_pass": "0",
+    "page_loader": "pageloader2",
+    "site_lock": "",
+    "site_lock_home_page_url": "",
+    "security_key": "Md5!4(xBbYYD",
+    "default_archive": "blog3",
+    "excerpt_length": "20",
+    "page_comments": "",
+    "instructor_commission": "70",
+    "direct_checkout": "3",
+    "thankyou_redirect": "1",
+    "remove_woo_fields": "0",
+    "cache_duration": "0",
+    "google_captcha_public_key": "",
+    "google_captcha_private_key": "",
+    "google_apikey_contact": "",
+    "contact_ll": "43.730325,7.422155",
+    "contact_style": "SATELLITE",
+    "map_zoom": "17",
+    "error404": "",
+    "xmlrpc": "",
+    "disable_versioning": "",
+    "wp_login_screen": "",
+    "credits": "VibeThemes",
+    "demo_switch": "demo9"
+  },
+  "wplms_plugins": [
+    "vibe-course-module/loader.php",
+    "vibe-customtypes/vibe-customtypes.php",
+    "vibe-shortcodes/vibe-shortcodes.php",
+    "wplms-front-end/wplms-front-end.php",
+    "wplms-assignments/wplms-assignments.php",
+    "wplms-dashboard/wplms-dashboard.php",
+    "buddypress/bp-loader.php",
+    "woocommerce/woocommerce.php",
+    "layerslider/layerslider.php",
+    "revslider/revslider.php",
+    "js_composer/js_composer.php",
+    "eventON/eventon.php",
+    "wplms-eventon/wplms-eventon.php"
+  ],
+  "lms_settings": {
+    "general": {
+      "vibe_display_course_curriculum": "on",
+      "vibe_display_course_events": "0",
+      "vibe_display_course_activity": "0",
+      "vibe_display_course_drive": "0",
+      "curriculum_accordion": "on",
+      "skip_course_status": "on",
+      "in_course_quiz": "on",
+      "course_curriculum_below_description": "on",
+      "in_course_quiz_paged": "5"
+    }
+  },
+  "wplms_member_types": [
+    {
+      "id": "marketing",
+      "sname": "Marketing",
+      "pname": "marketing"
+    },
+    {
+      "id": "software-training",
+      "sname": "Software Training",
+      "pname": "software training"
+    },
+    {
+      "id": "animation",
+      "sname": "Animation",
+      "pname": "animation"
+    },
+    {
+      "id": "designing",
+      "sname": "Designing",
+      "pname": "designing"
+    },
+    {
+      "id": "gaming",
+      "sname": "Gaming",
+      "pname": "gaming"
+    }
+  ]
+}

@@ -1,0 +1,2678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Front End\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-04 23:01+0530\n"
+"PO-Revision-Date: 2019-01-04 23:06+0530\n"
+"Last-Translator: VibeThemes <vibethemes@gmail.com>\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: pt_BR\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Digite seu nome de usuário Envato Marketplace."
+
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Digite sua Chave API Envato Marketplace."
+
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "A API \"set\" é um parâmetro obrigatório."
+
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "O Envato Marketplace \"item ID\" é um parâmetro obrigatório."
+
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Um erro HTTP inesperado ocorreu durante o pedido API."
+
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "Tente novamente"
+
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "Ocorreu um erro desconhecido"
+
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"O plugin foi atualizado, mas não pode ser reativado. Por favor, reativá-lo "
+"manualmente."
+
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "Plugin reativado com sucesso. "
+
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr " - Atualização do Plugin"
+
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "Usuário: "
+
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "Email: "
+
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "Chave: "
+
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>As atualizações do seu plugin estão <span style=\"color:green\">ativas</"
+"span></p>"
+
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Sua entrada <span style=\"color:red\">não é válida</span>, atualizações "
+"automáticas <span style=\"color:red\">não esta ativo</span>.</p>"
+
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "Editar Chave"
+
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>Não é possível validar a ativação de atualização.</p>"
+
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "Adicionar Chave"
+
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "Nome do usuário"
+
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "Email"
+
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Nome de usuário do Themeforest ( para Auto-Atualização )"
+
+#: includes/class.generate_fields.php:45
+msgid "Set Course Memberships"
+msgstr "Defina os membros para o curso"
+
+#: includes/class.generate_fields.php:72
+msgid "EDIT COURSE"
+msgstr "EDITAR CURSO"
+
+#: includes/class.generate_fields.php:72
+#: includes/class.generate_fields.php:141
+msgid "CREATE COURSE"
+msgstr "CRIAR CURSO"
+
+#: includes/class.generate_fields.php:73
+msgid "Start building a course"
+msgstr "Inicie a criar o curso"
+
+#: includes/class.generate_fields.php:76
+msgid "Course title"
+msgstr "Título do curso"
+
+#: includes/class.generate_fields.php:82
+msgid "ENTER A COURSE TITLE"
+msgstr "INSIRA UM TÍTULO PARA O CURSO"
+
+#: includes/class.generate_fields.php:83
+msgid ""
+"This is the title of the course which is displayed on top of every course"
+msgstr "Este é o título do curso que será mostrado no topo de cada curso"
+
+#: includes/class.generate_fields.php:86
+msgid "Course Category"
+msgstr "Categoria do Curso"
+
+#: includes/class.generate_fields.php:93
+msgid "Select a Course Category"
+msgstr "Selecione a categoria do curso"
+
+#: includes/class.generate_fields.php:96
+msgid "Course Image"
+msgstr "Imagem do curso"
+
+#: includes/class.generate_fields.php:100
+msgid "Upload a Course Image"
+msgstr "Upload de imagem do curso"
+
+#: includes/class.generate_fields.php:101
+msgid "Set as Course Image"
+msgstr "Defina uma imagem para o curso"
+
+#: includes/class.generate_fields.php:108
+msgid "Course Video"
+msgstr "Vídeo do Curso"
+
+#: includes/class.generate_fields.php:112
+msgid "Upload a Video"
+msgstr "Carregar um vídeo"
+
+#: includes/class.generate_fields.php:113
+msgid "Select or Upload a video"
+msgstr "Selecionar ou carregar um vídeo"
+
+#: includes/class.generate_fields.php:114
+msgid "Set as Course Video"
+msgstr "Definir como vídeo do curso"
+
+#: includes/class.generate_fields.php:121
+msgid "Course Short Description"
+msgstr "Breve descrição do curso"
+
+#: includes/class.generate_fields.php:127
+msgid "Add full description"
+msgstr "Adicione a descrição do curso"
+
+#: includes/class.generate_fields.php:128
+msgid "Enter a short description of the course."
+msgstr "Insira uma breve descrição do curso."
+
+#: includes/class.generate_fields.php:131
+msgid "Full Description"
+msgstr "Descrição"
+
+#: includes/class.generate_fields.php:138
+msgid "Enter full description of the course."
+msgstr "Insira uma descrição para o curso."
+
+#: includes/class.generate_fields.php:141
+msgid "SAVE COURSE"
+msgstr "SALVAR CURSO"
+
+#: includes/class.generate_fields.php:149
+#: includes/class.process_fields.php:700
+msgid "SETTINGS"
+msgstr "CONFIGURAÇÕES"
+
+#: includes/class.generate_fields.php:150
+#: includes/class.generate_fields.php:478
+msgid "Course settings"
+msgstr "Configurações do Curso"
+
+#: includes/class.generate_fields.php:153
+msgid "Course duration"
+msgstr "Duração do Curso"
+
+#: includes/class.generate_fields.php:154
+msgid "Maximum Course Duration"
+msgstr "Máximo de duração do curso"
+
+#: includes/class.generate_fields.php:161
+#, php-format
+msgid ""
+"Enter the maximum duration for the course in %s. This is the maximum "
+"duration within which the student should complete the course. Use 9999 for "
+"unlimited access to course."
+msgstr ""
+"Introduza a duração máxima para o curso em % s. Esta é a duração máxima "
+"dentro da qual o estudante deve concluir o curso. Use 9999 para acesso "
+"ilimitado ao curso."
+
+#: includes/class.generate_fields.php:164
+msgid "Course duration parameter"
+msgstr "Parâmetro de duração do curso"
+
+#: includes/class.generate_fields.php:165
+msgid "Set Course Duration parameter"
+msgstr "Defina o Parâmetro de duração do curso"
+
+#: includes/class.generate_fields.php:171
+msgid "Set course duration parameter for this course."
+msgstr "Defina um parâmetro de duração para este curso."
+
+#: includes/class.generate_fields.php:174
+msgid "Prerequisite Course"
+msgstr "Pré-requisito do curso"
+
+#: includes/class.generate_fields.php:175
+msgid "Set a prerequisite Course"
+msgstr "Defina um pré-requisito para o curso"
+
+#: includes/class.generate_fields.php:180
+msgid "Enter first 4 letters of course for search"
+msgstr "Digite 4 primeiras letras do curso para pesquisa"
+
+#: includes/class.generate_fields.php:182
+msgid ""
+"Pre-required course which the user needs to complete before subscribing to "
+"this course."
+msgstr ""
+"Curso pré-requerido que o estudante precisa para completar a inscrição neste "
+"curso."
+
+#: includes/class.generate_fields.php:185
+msgid "Previous Unit Completion Lock"
+msgstr "Bloqueio de Conclusão da Unidade Anterior"
+
+#: includes/class.generate_fields.php:186
+msgid "Previous Units/Quiz must be Complete before next unit/quiz access"
+msgstr ""
+"As unidades ou questionários anteriores deverão ser completados antes de "
+"prosseguir"
+
+#: includes/class.generate_fields.php:188
+#: includes/class.generate_fields.php:221
+#: includes/class.generate_fields.php:243
+#: includes/class.generate_fields.php:254
+#: includes/class_wplms_front_end.php:1815
+#: includes/class_wplms_front_end.php:2638
+msgid "NO"
+msgstr "NÃO"
+
+#: includes/class.generate_fields.php:188
+#: includes/class.generate_fields.php:221
+#: includes/class.generate_fields.php:243
+#: includes/class.generate_fields.php:254
+#: includes/class_wplms_front_end.php:1817
+#: includes/class_wplms_front_end.php:2636
+msgid "YES"
+msgstr "SIM"
+
+#: includes/class.generate_fields.php:193
+msgid "Force previous unit access lock."
+msgstr "Forçar o bloqueio de acesso de unidade anterior."
+
+#: includes/class.generate_fields.php:196
+msgid "Course Type"
+msgstr "Tipo de curso"
+
+#: includes/class.generate_fields.php:197
+msgid "Set Course Type"
+msgstr "Defina o tipo do curso"
+
+#: includes/class.generate_fields.php:199
+msgid "ONLINE"
+msgstr "ONLINE"
+
+#: includes/class.generate_fields.php:199
+msgid "OFFLINE"
+msgstr "OFFLINE"
+
+#: includes/class.generate_fields.php:204
+msgid "Offline Courses can be filtered in the Course directory."
+msgstr "Cursos offline podem ser filtrados no diretório de cursos."
+
+#: includes/class.generate_fields.php:207
+msgid "Unit Content (Offline Courses)"
+msgstr "Conteúdo da unidade (Para cursos offline)"
+
+#: includes/class.generate_fields.php:208
+msgid "Full units in Curriculum"
+msgstr "Unidades completas no Currículo"
+
+#: includes/class.generate_fields.php:210
+#: includes/class.generate_fields.php:232
+msgid "HIDE"
+msgstr "OCULTAR"
+
+#: includes/class.generate_fields.php:210
+#: includes/class.generate_fields.php:232
+msgid "SHOW"
+msgstr "MOSTRAR"
+
+#: includes/class.generate_fields.php:215
+msgid ""
+"Full Unit content is available for users subscribed to the course, directly "
+"from Course curriculum. Recommended for Offline Courses."
+msgstr ""
+"O conteúdo completo da Undiade está disponível para usuários que se "
+"inscreveram no curso, direto do Currículo do Curso. Recomendado para Cursos "
+"Offline"
+
+#: includes/class.generate_fields.php:218
+msgid "Course Button (Offline Courses)"
+msgstr "Botão do curso (Curso offline.)"
+
+#: includes/class.generate_fields.php:219
+msgid "Hide Course Button after subscription"
+msgstr "Ocultar botão de curso após a inscrição"
+
+#: includes/class.generate_fields.php:226
+msgid "Hide the Course button after user is subscribed to the Course."
+msgstr "Ocultar o botão de curso após inscrição do estudante."
+
+#: includes/class.generate_fields.php:229
+msgid "Course Progress (Offline Courses)"
+msgstr "Progresso do curso (Para cursos offline)"
+
+#: includes/class.generate_fields.php:230
+msgid "Progress on Course home"
+msgstr "Progresso no painel do curso"
+
+#: includes/class.generate_fields.php:237
+msgid "Display Course progress on Course home page."
+msgstr "Mostrar o progresso do curso no painel do curso."
+
+#: includes/class.generate_fields.php:240
+msgid "Auto Progress (Offline Courses)"
+msgstr "Progresso automático (Para cursos offline)"
+
+#: includes/class.generate_fields.php:241
+msgid "Time based Course progress"
+msgstr "Tempo com base no progresso do curso"
+
+#: includes/class.generate_fields.php:248
+msgid ""
+"Automatically calculate progress based on Time elapsed in Course / Total "
+"course duration."
+msgstr ""
+"Cálculo automático do progresso baseado no tempo corrido do Curso / Duração "
+"total."
+
+#: includes/class.generate_fields.php:251
+msgid "Post Reivews (Offline Courses)"
+msgstr "Revisão do artigo (Para cursos offline)"
+
+#: includes/class.generate_fields.php:252
+msgid "Post Course reviews from Course Home"
+msgstr "Postar avaliações do Curso da página inicial do Curso"
+
+#: includes/class.generate_fields.php:259
+msgid "Enable course subscribed students to post reviews from Course home."
+msgstr ""
+"Habilita alunos inscritos nos cursos a postarem avaliações da página inicial "
+"dos Cursos."
+
+#: includes/class.generate_fields.php:262
+msgid "Course Evaluation"
+msgstr "Avaliação do Curso"
+
+#: includes/class.generate_fields.php:263
+msgid "Course Evaluation Mode"
+msgstr "Modo de Avaliação do Curso"
+
+#: includes/class.generate_fields.php:265
+#: includes/class_wplms_front_end.php:2222
+msgid "MANUAL"
+msgstr "MANUAL"
+
+#: includes/class.generate_fields.php:265
+msgid "AUTOMATIC"
+msgstr "AUTOMÁTICO"
+
+#: includes/class.generate_fields.php:270
+msgid "User gets the course result instantly upon submission."
+msgstr ""
+"Estudantes recebem o resultado instantaneamente após a submissão do "
+"Questionário."
+
+#: includes/class.generate_fields.php:273
+msgid "Drip Feed"
+msgstr "Conta-gotas"
+
+#: includes/class.generate_fields.php:274
+msgid "Course Drip Feed"
+msgstr "Curso Conta-gotas"
+
+#: includes/class.generate_fields.php:277
+#: includes/class.generate_fields.php:344
+#: includes/class.generate_fields.php:378
+#: includes/class.process_fields.php:712
+msgid "DISABLE"
+msgstr "DESATIVAR"
+
+#: includes/class.generate_fields.php:277
+#: includes/class.generate_fields.php:344
+#: includes/class.generate_fields.php:378
+#: includes/class.process_fields.php:712
+msgid "ENABLE"
+msgstr "ATIVAR"
+
+#: includes/class.generate_fields.php:282
+msgid ""
+"Drip Feed courses, units are released one by one after certain duration of "
+"time."
+msgstr ""
+"Conta-gotas dos cursos - unidades são realizadas uma a uma após duração do "
+"tempo limite."
+
+#: includes/class.generate_fields.php:285
+#: includes/class.generate_fields.php:286
+msgid "Drip Feed Origin"
+msgstr "Origem do Conta-gotas"
+
+#: includes/class.generate_fields.php:288
+msgid "PREVIOUS UNIT"
+msgstr "UNIDADE ANTERIOR"
+
+#: includes/class.generate_fields.php:288
+msgid "STARTING POINT"
+msgstr "DO INÍCIO"
+
+#: includes/class.generate_fields.php:293
+msgid ""
+"Drip Feed origin, count time from Previous Unit Access Time (default) OR "
+"Course starting date/time (if start date not set) ."
+msgstr ""
+"Origem do Conta-gotas, contar o tempo a partir do Tempo de Acesso da Unidade "
+"Anterior (padrão) OU data/hora do começo do Curso (se a data de início não "
+"estiver definido)."
+
+#: includes/class.generate_fields.php:296
+#: includes/class.generate_fields.php:297
+msgid "Drip Feed Type"
+msgstr "Tipo de Conta-goras"
+
+#: includes/class.generate_fields.php:299
+#: includes/class_wplms_front_end.php:213
+msgid "UNIT"
+msgstr "UNIDADE"
+
+#: includes/class.generate_fields.php:299
+msgid "SECTION"
+msgstr "SEÇÃO"
+
+#: includes/class.generate_fields.php:304
+msgid "Drip Feed type, release units or sections."
+msgstr "Tipo de Conta-gotas, liberação de unidades ou seções."
+
+#: includes/class.generate_fields.php:307
+#: includes/class.generate_fields.php:308
+msgid "Drip Feed Duration Type"
+msgstr "Tipo de Duração do Conta-gotas"
+
+#: includes/class.generate_fields.php:311
+#: includes/class_wplms_front_end.php:2231
+msgid "STATIC"
+msgstr "ESTÁTICO"
+
+#: includes/class.generate_fields.php:311
+msgid "UNIT DURATION"
+msgstr "DURAÇÃO DA UNIDADE"
+
+#: includes/class.generate_fields.php:316
+msgid "Time gap between adjacent Units/Sections release."
+msgstr "Intervalo de lançamento entre Unidades/Seções adjacentes."
+
+#: includes/class.generate_fields.php:319
+msgid "Drip Duration"
+msgstr "Duração do Conta-gotas"
+
+#: includes/class.generate_fields.php:320
+msgid "Set Duration between two successive Course elements"
+msgstr "Definir a duração entre dois elementos do curso sucessivos"
+
+#: includes/class.generate_fields.php:327
+#, php-format
+msgid ""
+"Enter the drip duration for the course in %s. This is the duration after "
+"which the next unit/section unlocks for the user after viewing the previous "
+"unit/section."
+msgstr ""
+"Introduza a duração de limite para o curso em% s . Esta é a duração após a "
+"qual a próxima unidade / seção desbloqueia para o estudante depois de ver a "
+"unidade / seção anterior."
+
+#: includes/class.generate_fields.php:330
+msgid "Drip Feed duration parameter"
+msgstr "Parâmetro de duração do Conta-goras"
+
+#: includes/class.generate_fields.php:331
+msgid "Set Drip Duration parameter"
+msgstr "Defina a duração do Conta-gotas"
+
+#: includes/class.generate_fields.php:337
+msgid "Set course drip feed duration parameter for this course."
+msgstr "Defina o parâmetro de duração do Conta-gotas para este curso."
+
+#: includes/class.generate_fields.php:340
+#: includes/class.generate_fields.php:341
+msgid "Course Certificate"
+msgstr "Certificado do Curso"
+
+#: includes/class.generate_fields.php:349
+msgid "Award Course completion Certificates to student on course completion."
+msgstr ""
+"Medalhas e certificados de conclusão do curso para estudantes em conclusão "
+"do curso."
+
+#: includes/class.generate_fields.php:352
+msgid "Passing Percentage"
+msgstr "Porcentagem para passar"
+
+#: includes/class.generate_fields.php:353
+msgid "Set Certificate Percentage"
+msgstr "Defina uma porcentagem para obter o certificado"
+
+#: includes/class.generate_fields.php:358
+#: includes/class.generate_fields.php:392
+msgid " out of 100"
+msgstr " de 100"
+
+#: includes/class.generate_fields.php:360
+msgid ""
+"Any user achieving more marks (weighted average of Quizzes/assignments in "
+"course) than this gets the Course certificate."
+msgstr ""
+"Qualquer usuário que alcançar mais marcas (média ponderada de Questionário/ "
+"Tarefas em curso ) do que este recebe o certificado do curso ."
+
+#: includes/class.generate_fields.php:363
+msgid "Certificate Template"
+msgstr "Modelo do certificado"
+
+#: includes/class.generate_fields.php:364
+msgid "Select Certificate template"
+msgstr "Selecione o modelo do certificado"
+
+#: includes/class.generate_fields.php:369
+msgid "Enter first 3 letters to search course template"
+msgstr "Digite 3 primeiras letras para procurar modelo de curso"
+
+#: includes/class.generate_fields.php:371
+msgid "Connect a custom Certificate template for this Course."
+msgstr "Defina um modelo de certificado personalizado para este curso."
+
+#: includes/class.generate_fields.php:374
+#: includes/class.generate_fields.php:375
+#: includes/class.generate_fields.php:407
+msgid "Course Badge"
+msgstr "Medalha do Curso"
+
+#: includes/class.generate_fields.php:383
+msgid "Award Excellence badges to student on course completion."
+msgstr "Premiar com Medalhas de Excelência para aluno na conclusão do curso."
+
+#: includes/class.generate_fields.php:386
+msgid "Badge Percentage"
+msgstr "Percentual para obter Medalha"
+
+#: includes/class.generate_fields.php:387
+msgid "Set Excellence Badge Percentage"
+msgstr "Defina uma porcentagem para obter Medalha de Excelência"
+
+#: includes/class.generate_fields.php:394
+msgid ""
+"Any user achieving more marks (weighted average of Quizzes/assignments in "
+"course) than this gets the Course Badge."
+msgstr ""
+"Qualquer usuário que alcançar uma pontuação maior (média ponderada de "
+"Questionários/Tarefas em curso) do que este recebe a Medalha."
+
+#: includes/class.generate_fields.php:397
+msgid "Badge Title"
+msgstr "Título do Medalha"
+
+#: includes/class.generate_fields.php:398
+msgid "Set Badge title"
+msgstr "Defina um título para o Medalha"
+
+#: includes/class.generate_fields.php:403
+#: includes/class.generate_fields.php:404
+msgid "Course Badge Title"
+msgstr "Título do Medalha do Curso"
+
+#: includes/class.generate_fields.php:408
+msgid "Upload Course Badge"
+msgstr "Enviar imagem para o Medalha"
+
+#: includes/class.generate_fields.php:411
+msgid "Select or Upload a Course badge."
+msgstr "Selecione ou envie um Medalha do Curso."
+
+#: includes/class.generate_fields.php:412
+msgid "Add Course badge."
+msgstr "Adicione um Medalha para o curso."
+
+#: includes/class.generate_fields.php:416
+msgid "Upload a course badge."
+msgstr "Enviar um medalha de curso."
+
+#: includes/class.generate_fields.php:419
+msgid "Course Retakes"
+msgstr "Repetições do curso"
+
+#: includes/class.generate_fields.php:420
+msgid "Student Course Retakes"
+msgstr "Repetições do curso pelo aluno"
+
+#: includes/class.generate_fields.php:426
+msgid "Set number of times a student can re-take the course (0 to disable)"
+msgstr ""
+"Definir o número de vezes que um aluno pode voltar a fazer o curso ( 0 para "
+"desativar )"
+
+#: includes/class.generate_fields.php:429
+msgid "Maxium Seats in Course"
+msgstr "Máximo de lugares no curso"
+
+#: includes/class.generate_fields.php:430
+msgid "Maximum students that can join the Course"
+msgstr "Máximo de alunos que podem entrar no curso"
+
+#: includes/class.generate_fields.php:436
+msgid "Maximum number of seats in course (blank to disable, 9999 for infinite)"
+msgstr ""
+"Número máximo de lugares em curso (em branco para desabilitar, 9999 para "
+"infinito)"
+
+#: includes/class.generate_fields.php:439
+msgid "Course Start Date"
+msgstr "Data de início do curso"
+
+#: includes/class.generate_fields.php:440
+msgid "Start date"
+msgstr "Data de início"
+
+#: includes/class.generate_fields.php:446
+msgid "Set a Course start date."
+msgstr "Defina uma data de início."
+
+#: includes/class.generate_fields.php:449
+msgid "Course Instructions"
+msgstr "Instruções do curso"
+
+#: includes/class.generate_fields.php:450
+msgid "Add Course specific instructions"
+msgstr "Adicione instruções específicas do curso"
+
+#: includes/class.generate_fields.php:456
+msgid "Course instructions are displayed when the user starts a course."
+msgstr "Instruções do curso que são exibidas quando o usuário inicia um curso."
+
+#: includes/class.generate_fields.php:459
+msgid "Course Completion Message"
+msgstr "Digite uma mensagem ao concluir o curso"
+
+#: includes/class.generate_fields.php:460
+msgid "Completion Message"
+msgstr "Digite uma mensagem ao concluir"
+
+#: includes/class.generate_fields.php:466
+msgid ""
+"Completion message is shown to the student when she finishes the course."
+msgstr ""
+"Mensagem de conclusão que é mostrado ao estudante quando ela termina o curso."
+
+#: includes/class.generate_fields.php:469
+#: includes/class_wplms_front_end.php:2716
+msgid "SAVE SETTINGS"
+msgstr "SALVAR CONFIGURAÇÕES"
+
+#: includes/class.generate_fields.php:477
+msgid "COMPONENTS"
+msgstr "COMPONENTES"
+
+#: includes/class.generate_fields.php:481
+msgid "Course Group"
+msgstr "Grupo do curso"
+
+#: includes/class.generate_fields.php:482
+msgid "Set a Course Group"
+msgstr "Defina um grupo para o curso"
+
+#: includes/class.generate_fields.php:487
+msgid "Set a course specific group."
+msgstr "Selecione um grupo para o curso."
+
+#: includes/class.generate_fields.php:490
+msgid "Course Forum"
+msgstr "Fórum do curso"
+
+#: includes/class.generate_fields.php:491
+msgid "Set a Course Forum"
+msgstr "Defina um fórum para o curso"
+
+#: includes/class.generate_fields.php:496
+msgid "Set a course forum."
+msgstr "Defina um fórum para o curso."
+
+#: includes/class.generate_fields.php:500
+msgid "SAVE COMPONENTS"
+msgstr "SALVAR COMPONENTES"
+
+#: includes/class.generate_fields.php:508
+msgid "SET CURRICULUM"
+msgstr "DEFINIR O CURRÍCULO"
+
+#: includes/class.generate_fields.php:509
+msgid "Add Units and Quizzes"
+msgstr "Adicione Unidades e Questionários"
+
+#: includes/class.generate_fields.php:512
+msgid "Curriculum"
+msgstr "Criar o Currículo do Curso"
+
+#: includes/class.generate_fields.php:514
+msgid "ADD SECTION"
+msgstr "ADICIONAR SEÇÃO"
+
+#: includes/class.generate_fields.php:514
+msgid "ADD UNIT"
+msgstr "ADICIONAR UNIDADE"
+
+#: includes/class.generate_fields.php:514
+msgid "ADD QUIZ"
+msgstr "ADICIONAR QUESTIONÁRIO"
+
+#: includes/class.generate_fields.php:518
+msgid "Build Course curriculum"
+msgstr "Criar o Currículo do Curso"
+
+#: includes/class.generate_fields.php:524
+msgid "PRICING"
+msgstr "PREÇO"
+
+#: includes/class.generate_fields.php:525
+msgid "Set Price for Course"
+msgstr "Defina um preço para o curso"
+
+#: includes/class.generate_fields.php:528
+msgid "Course Pricing"
+msgstr "Preço do curso"
+
+#: includes/class.generate_fields.php:532
+msgid "Free "
+msgstr "Gratuito "
+
+#: includes/class.generate_fields.php:533
+msgid "Free Course"
+msgstr "Curso Gratuito"
+
+#: includes/class.generate_fields.php:535
+msgid "No"
+msgstr "Não"
+
+#: includes/class.generate_fields.php:535
+msgid "Yes"
+msgstr "Sim"
+
+#: includes/class.generate_fields.php:540
+msgid "By pass any purchase process."
+msgstr "Passar qualquer processo de compra."
+
+#: includes/class.generate_fields.php:543
+msgid "Product "
+msgstr "Produto "
+
+#: includes/class.generate_fields.php:544
+msgid "Set a Course Product"
+msgstr "Defina um produto para o curso"
+
+#: includes/class.generate_fields.php:551
+msgid "Connect a Product with this course."
+msgstr "Adicione um produto para este curso."
+
+#: includes/class.generate_fields.php:554
+msgid "SAVE PRICING"
+msgstr "SALVAR PREÇO"
+
+#: includes/class.generate_fields.php:562
+msgid "MODIFY COURSE"
+msgstr "ALTERAR O CURSO"
+
+#: includes/class.generate_fields.php:562
+msgid "PUBLISH COURSE"
+msgstr "PUBLICAR CURSO"
+
+#: includes/class.generate_fields.php:563
+msgid "Change Course status"
+msgstr "Mudar situação do curso"
+
+#: includes/class.generate_fields.php:563
+msgid "Go Live !"
+msgstr "Lançar!"
+
+#: includes/class.generate_fields.php:566
+msgid "Take Offline"
+msgstr "Fazer Offline"
+
+#: includes/class.generate_fields.php:571
+msgid "Save as Template"
+msgstr "Salvar como Modelo"
+
+#: includes/class.generate_fields.php:616
+msgid "Edit in WP Admin"
+msgstr "Editar na Administração do WordPress"
+
+#: includes/class.generate_fields.php:622
+msgid "Course templates"
+msgstr "Modelos de curso"
+
+#: includes/class.generate_fields.php:629
+#: includes/class_wplms_front_end.php:1644
+msgid "View Course"
+msgstr "Ver Curso"
+
+#: includes/class.generate_fields.php:792
+msgid "Add new"
+msgstr "Adicionar novo"
+
+#: includes/class.generate_fields.php:815
+msgid "Enter a new"
+msgstr "Inserir um novo"
+
+#: includes/class.generate_fields.php:890
+msgctxt ""
+msgid "Unable to find url of selected video"
+msgstr "Não foi possível encontrar a URL do vídeo selecionado"
+
+#: includes/class.generate_fields.php:1025
+#: includes/class.generate_fields.php:1069
+#: includes/class.process_fields.php:309 includes/class.process_fields.php:313
+msgid "edit"
+msgstr "editar"
+
+#: includes/class.generate_fields.php:1025
+#: includes/class.generate_fields.php:1069
+#: includes/class.process_fields.php:309 includes/class.process_fields.php:313
+msgid "change"
+msgstr "mudar"
+
+#: includes/class.generate_fields.php:1032
+msgid "Select Existing Group"
+msgstr "Selecione um grupo existente"
+
+#: includes/class.generate_fields.php:1034
+msgid "Select a Group"
+msgstr "Selecionar um grupo"
+
+#: includes/class.generate_fields.php:1036
+#: includes/class.generate_fields.php:1079
+msgid "Set"
+msgstr "Definir"
+
+#: includes/class.generate_fields.php:1040
+#: includes/class.generate_fields.php:1049
+msgid "Create New Group"
+msgstr "Criar um novo grupo"
+
+#: includes/class.generate_fields.php:1042
+msgid "Group Name"
+msgstr "Nome do grupo"
+
+#: includes/class.generate_fields.php:1044
+#: includes/class.generate_fields.php:1087
+msgid "Public"
+msgstr "Público"
+
+#: includes/class.generate_fields.php:1045
+#: includes/class.generate_fields.php:1088
+msgid "Private"
+msgstr "Privado"
+
+#: includes/class.generate_fields.php:1046
+#: includes/class.generate_fields.php:1089
+msgid "Hidden"
+msgstr "Oculto"
+
+#: includes/class.generate_fields.php:1048
+msgid "Group Description"
+msgstr "Descrição do grupo"
+
+#: includes/class.generate_fields.php:1075
+msgid "Select Existing Forum"
+msgstr "Selecione um fórum existente"
+
+#: includes/class.generate_fields.php:1077
+msgid "Select a Forum"
+msgstr "Selecione um Fórum"
+
+#: includes/class.generate_fields.php:1083
+#: includes/class.generate_fields.php:1092
+msgid "Create New Forum"
+msgstr "Criar um novo fórum"
+
+#: includes/class.generate_fields.php:1085
+msgid "Forum Name"
+msgstr "Nome do fórum"
+
+#: includes/class.generate_fields.php:1091
+msgid "Forum Description"
+msgstr "Descrição do fórum"
+
+#: includes/class.generate_fields.php:1248
+#: includes/class_wplms_front_end.php:2793
+msgid "Seconds"
+msgstr "Segundos"
+
+#: includes/class.generate_fields.php:1249
+#: includes/class_wplms_front_end.php:2794
+msgid "Minutes"
+msgstr "Minutos"
+
+#: includes/class.generate_fields.php:1250
+#: includes/class_wplms_front_end.php:2795
+msgid "Hours"
+msgstr "Horas"
+
+#: includes/class.generate_fields.php:1251
+#: includes/class_wplms_front_end.php:2796
+msgid "Days"
+msgstr "Dias"
+
+#: includes/class.generate_fields.php:1252
+#: includes/class_wplms_front_end.php:2797
+msgid "Weeks"
+msgstr "Semanas"
+
+#: includes/class.generate_fields.php:1253
+#: includes/class_wplms_front_end.php:2798
+msgid "Months"
+msgstr "Meses"
+
+#: includes/class.generate_fields.php:1254
+#: includes/class_wplms_front_end.php:2799
+msgid "Years"
+msgstr "Anos"
+
+#: includes/class.generate_fields.php:1283
+#: includes/class.process_fields.php:642 includes/class.process_fields.php:978
+#: includes/class.process_fields.php:1265
+msgid "Title"
+msgstr "Título"
+
+#: includes/class.generate_fields.php:1284
+#: includes/class.process_fields.php:1266
+msgid "Product Title"
+msgstr "Título do produto"
+
+#: includes/class.generate_fields.php:1289
+#: includes/class.process_fields.php:1271
+msgid "Product title is useful to identify courses connected to this product."
+msgstr ""
+"Título do produto é útil para identificar cursos ligados a este produto."
+
+#: includes/class.generate_fields.php:1292
+#: includes/class.generate_fields.php:1293
+#: includes/class.process_fields.php:1274
+#: includes/class.process_fields.php:1275
+msgid "Price"
+msgstr "Preço"
+
+#: includes/class.generate_fields.php:1298
+#: includes/class.process_fields.php:1280
+msgid "Set price of the course"
+msgstr "Defina o preço do curso"
+
+#: includes/class.generate_fields.php:1301
+#: includes/class.process_fields.php:1283
+msgid "Sale"
+msgstr "Venda"
+
+#: includes/class.generate_fields.php:1302
+#: includes/class.process_fields.php:1284
+msgid "Sale Price"
+msgstr "Preço de venda"
+
+#: includes/class.generate_fields.php:1307
+#: includes/class.process_fields.php:1289
+msgid "Blank if product not in sale"
+msgstr "Deixe em branco se o produto não estiver em venda"
+
+#: includes/class.generate_fields.php:1310
+#: includes/class.process_fields.php:1292
+msgid "Subscription"
+msgstr "Inscrição"
+
+#: includes/class.generate_fields.php:1312
+#: includes/class.process_fields.php:1294
+msgid "Subscription Type"
+msgstr "Tipo da inscrição"
+
+#: includes/class.generate_fields.php:1314
+#: includes/class.process_fields.php:1296
+msgid "FULL DURATION"
+msgstr "DURAÇÃO TOTAL"
+
+#: includes/class.generate_fields.php:1314
+#: includes/class.process_fields.php:1296
+msgid "LIMITED"
+msgstr "LIMITADO"
+
+#: includes/class.generate_fields.php:1318
+#: includes/class.process_fields.php:1300
+msgid "Set subscription type of product."
+msgstr "Defina tipo de inscrição do produto."
+
+#: includes/class.generate_fields.php:1321
+#: includes/class.process_fields.php:1303
+msgid "Subscription Duration"
+msgstr "Duração da inscrição"
+
+#: includes/class.generate_fields.php:1323
+#: includes/class.process_fields.php:1305
+msgid "Set subscription duration"
+msgstr "Defina a Duração da inscrição"
+
+#: includes/class.generate_fields.php:1327
+#: includes/class.process_fields.php:1309
+msgid "Must not be 0"
+msgstr "Não pode ser 0"
+
+#: includes/class.generate_fields.php:1330
+#: includes/class.process_fields.php:1312
+msgid "Subscription Duration Parameter"
+msgstr "Parâmetro da Duração da inscrição"
+
+#: includes/class.generate_fields.php:1331
+#: includes/class.process_fields.php:1313
+msgid "Set subscription duration parameter"
+msgstr "Defina um Parâmetro da Duração da inscrição"
+
+#: includes/class.generate_fields.php:1343
+#: includes/class.generate_fields.php:1347
+#: includes/class.generate_fields.php:1358
+msgid "Set Product"
+msgstr "Defina o produto"
+
+#: includes/class.generate_fields.php:1344
+#: includes/class.process_fields.php:1428
+msgid "Change"
+msgstr "Mudar"
+
+#: includes/class.generate_fields.php:1344
+#: includes/class.generate_fields.php:1642
+#: includes/class.generate_fields.php:1657
+#: includes/class.generate_fields.php:1698
+#: includes/class.generate_fields.php:1717
+#: includes/class.generate_fields.php:1830
+#: includes/class.process_fields.php:1239
+#: includes/class.process_fields.php:1428
+#: includes/class.process_fields.php:1518
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/class.generate_fields.php:1354
+msgid "Select existing product"
+msgstr "Selecione um produto existente"
+
+#: includes/class.generate_fields.php:1356
+msgid "Search a product"
+msgstr "Pesquise um produto"
+
+#: includes/class.generate_fields.php:1362
+msgid "Create new product"
+msgstr "Criar um novo produto"
+
+#: includes/class.generate_fields.php:1373
+msgid "Create Product"
+msgstr "Criar um produto"
+
+#: includes/class.generate_fields.php:1392
+#: includes/class.process_fields.php:1334
+msgid "Edit Product"
+msgstr "Editar Produto"
+
+#: includes/class.generate_fields.php:1433
+msgid "Modify Course"
+msgstr "Editar Curso"
+
+#: includes/class.generate_fields.php:1433
+msgid "Back to course"
+msgstr "Voltar para o curso"
+
+#: includes/class.generate_fields.php:1440
+msgid "TAKE OFFLINE"
+msgstr "FAZER OFFLINE"
+
+#: includes/class.generate_fields.php:1442
+#: includes/class.generate_fields.php:1455
+#: includes/class.generate_fields.php:1508
+msgid "SEND FOR APPROVAL"
+msgstr "ENVIAR PARA APROVAÇÃO"
+
+#: includes/class.generate_fields.php:1450
+#: includes/class.generate_fields.php:1503
+msgid "Go Live"
+msgstr "Lançar"
+
+#: includes/class.generate_fields.php:1453
+#: includes/class.generate_fields.php:1506
+msgid "GO LIVE"
+msgstr "LANÇAR"
+
+#: includes/class.generate_fields.php:1461 wplms-front-end.php:97
+msgid "DELETE COURSE"
+msgstr "APAGAR CURSO"
+
+#: includes/class.generate_fields.php:1462
+msgid "SHOW OPTIONS"
+msgstr "MOSTRAR OPÇÕES"
+
+#: includes/class.generate_fields.php:1465
+msgid "Delete Units"
+msgstr "Excluir unidades"
+
+#: includes/class.generate_fields.php:1470
+msgid "Delete Quizzes"
+msgstr "Excluir Questionários"
+
+#: includes/class.generate_fields.php:1475
+msgid "Delete Assignments"
+msgstr "Apague Tarefas do Curso"
+
+#: includes/class.generate_fields.php:1480
+msgid "Delete Product"
+msgstr "Apagar produto"
+
+#: includes/class.generate_fields.php:1495
+msgid "Course not set"
+msgstr "Curso não definido"
+
+#: includes/class.generate_fields.php:1543
+msgid "ADD DYNAMIC QUESTION SECTION TAGS"
+msgstr "ADICIONAR TAGS DE PERGUNTAS DINÂMICAS"
+
+#: includes/class.generate_fields.php:1546
+msgctxt "dynamic quiz settings"
+msgid "Question Tags"
+msgstr "Tags de Perguntas"
+
+#: includes/class.generate_fields.php:1546
+msgctxt "dynamic quiz settings"
+msgid "Number"
+msgstr "Número"
+
+#: includes/class.generate_fields.php:1546
+msgctxt "dynamic quiz settings"
+msgid "per Marks"
+msgstr "por Pontos"
+
+#: includes/class.generate_fields.php:1580
+#: includes/class.generate_fields.php:1598
+#: includes/class.generate_fields.php:1644
+#: includes/class.generate_fields.php:1659
+#: includes/class.generate_fields.php:1700
+#: includes/class.generate_fields.php:1719
+#: includes/class.generate_fields.php:1799
+#: includes/class.generate_fields.php:1808
+#: includes/class.generate_fields.php:1817
+#: includes/class.generate_fields.php:1832
+#: includes/class_wplms_front_end.php:1326
+#: includes/class_wplms_front_end.php:1381
+#: includes/class_wplms_front_end.php:1852
+#: includes/class_wplms_front_end.php:1872
+#: includes/class_wplms_front_end.php:1889
+#: includes/class_wplms_front_end.php:2107
+#: includes/class_wplms_front_end.php:2145
+#: includes/class_wplms_front_end.php:2301
+msgid "Remove"
+msgstr "Remover"
+
+#: includes/class.generate_fields.php:1600
+msgctxt "Total question count in quiz"
+msgid "Total Question Count"
+msgstr "Contagem de Perguntas Totais"
+
+#: includes/class.generate_fields.php:1601
+msgctxt "total marks label"
+msgid "Total Marks"
+msgstr "Total de Pontos"
+
+#: includes/class.generate_fields.php:1612
+#: includes/class_wplms_front_end.php:2468
+msgid "ADD OPTION"
+msgstr "ADICIONAR OPÇÃO"
+
+#: includes/class.generate_fields.php:1643
+#: includes/class.generate_fields.php:1658
+#: includes/class.generate_fields.php:1699
+#: includes/class.generate_fields.php:1718
+#: includes/class.generate_fields.php:1798
+#: includes/class.generate_fields.php:1807
+#: includes/class.generate_fields.php:1831
+msgid "Preview"
+msgstr "Visualização"
+
+#: includes/class.generate_fields.php:1645
+#: includes/class.generate_fields.php:1660
+#: includes/class.generate_fields.php:1701
+#: includes/class.generate_fields.php:1720
+#: includes/class.generate_fields.php:1800
+#: includes/class.generate_fields.php:1809
+#: includes/class.generate_fields.php:1833
+#: includes/class_wplms_front_end.php:1327
+#: includes/class_wplms_front_end.php:1382
+#: includes/class_wplms_front_end.php:1853
+#: includes/class_wplms_front_end.php:1873
+#: includes/class_wplms_front_end.php:2108
+#: includes/class_wplms_front_end.php:2302
+msgid "Delete"
+msgstr "Excluir"
+
+#: includes/class.generate_fields.php:1666
+msgid "Select existing assignment"
+msgstr "Selecione Tarefas do Curso"
+
+#: includes/class.generate_fields.php:1668
+msgid "Search an assignment"
+msgstr "Pesquisar uma Tarefa"
+
+#: includes/class.generate_fields.php:1670
+msgid "Set Assignment"
+msgstr "Definir Tarefa"
+
+#: includes/class.generate_fields.php:1674
+msgid "Create new Assignment"
+msgstr "Sim, criar uma nova Tarefa"
+
+#: includes/class.generate_fields.php:1676
+#: includes/class.generate_fields.php:1740
+msgid "Reference title"
+msgstr "Referência do título"
+
+#: includes/class.generate_fields.php:1677
+msgid "Create Assignment"
+msgstr "Criar Tarefa"
+
+#: includes/class.generate_fields.php:1705
+#: includes/class.generate_fields.php:1724
+msgid "Marks"
+msgstr "Pontuação"
+
+#: includes/class.generate_fields.php:1730
+msgid "Select existing question"
+msgstr "Selecione uma questão existente"
+
+#: includes/class.generate_fields.php:1732
+msgid "Search a question"
+msgstr "Procurar uma questão"
+
+#: includes/class.generate_fields.php:1734
+msgid "Set Question"
+msgstr "Definir questão"
+
+#: includes/class.generate_fields.php:1738
+msgid "Create new Question"
+msgstr "Sim, criar uma nova questão"
+
+#: includes/class.generate_fields.php:1743
+msgid "Question Tags"
+msgstr "Questão"
+
+#: includes/class.generate_fields.php:1750
+msgid "Select a Tag"
+msgstr "Selecionar o tipo da questão"
+
+#: includes/class.generate_fields.php:1756
+#: includes/class_wplms_front_end.php:2443
+msgid "True or False"
+msgstr "Verdadeiro ou Falso"
+
+#: includes/class.generate_fields.php:1757
+#: includes/class_wplms_front_end.php:2444
+msgid "Multiple Choice"
+msgstr "Múltiplas Escolhas"
+
+#: includes/class.generate_fields.php:1758
+#: includes/class_wplms_front_end.php:2445
+msgid "Multiple Correct"
+msgstr "Múltiplas Corretas"
+
+#: includes/class.generate_fields.php:1759
+#: includes/class_wplms_front_end.php:2446
+msgid "Sort Answers"
+msgstr "Ordenar Respostas"
+
+#: includes/class.generate_fields.php:1760
+#: includes/class_wplms_front_end.php:2447
+msgid "Match Answers"
+msgstr "Respostas correspondentes"
+
+#: includes/class.generate_fields.php:1761
+#: includes/class_wplms_front_end.php:2448
+msgid "Fill in the Blank"
+msgstr "Preencha o espaço em branco"
+
+#: includes/class.generate_fields.php:1762
+#: includes/class_wplms_front_end.php:2449
+msgid "Dropdown Select"
+msgstr "Caixa de Seleção"
+
+#: includes/class.generate_fields.php:1763
+#: includes/class_wplms_front_end.php:2450
+msgid "Small Text"
+msgstr "Pequeno texto"
+
+#: includes/class.generate_fields.php:1764
+#: includes/class_wplms_front_end.php:2451
+msgid "Large Text"
+msgstr "Texto largo"
+
+#: includes/class.generate_fields.php:1765
+msgid "Survey Type"
+msgstr "Tipo Pesquisa"
+
+#: includes/class.generate_fields.php:1775
+msgid "Create question"
+msgstr "Criar Questão"
+
+#: includes/class.generate_fields.php:1797
+#: includes/class_wplms_front_end.php:1324
+msgid "Edit Unit"
+msgstr "Editar Unidade"
+
+#: includes/class.generate_fields.php:1806
+#: includes/class_wplms_front_end.php:1380
+msgid "Edit Quiz"
+msgstr "Editar Questionário"
+
+#: includes/class.generate_fields.php:1839
+msgid "Enter Section Title"
+msgstr "Inserir um título para Seção"
+
+#: includes/class.generate_fields.php:1845
+msgid "Select existing unit"
+msgstr "Selecione uma unidade existente"
+
+#: includes/class.generate_fields.php:1847
+msgid "Search a unit"
+msgstr "Pesquisar unidade"
+
+#: includes/class.generate_fields.php:1849
+msgid "Set Unit"
+msgstr "Definir Unidade"
+
+#: includes/class.generate_fields.php:1853
+msgid "Create new unit"
+msgstr "Sim, criar uma nova unidade"
+
+#: includes/class.generate_fields.php:1855
+msgid "Unit title"
+msgstr "Título da unidade"
+
+#: includes/class.generate_fields.php:1858
+msgid "Create Unit"
+msgstr "Criar unidade"
+
+#: includes/class.generate_fields.php:1867
+msgid "Select existing quiz"
+msgstr "Selecione um Questionário existente"
+
+#: includes/class.generate_fields.php:1869
+msgid "Search a quiz"
+msgstr "Pesquisar um Questionário"
+
+#: includes/class.generate_fields.php:1871
+msgid "Set Quiz"
+msgstr "Definir Questionário"
+
+#: includes/class.generate_fields.php:1875
+msgid "Create new quiz"
+msgstr "Sim, criar um novo questionário"
+
+#: includes/class.generate_fields.php:1877
+msgid "Quiz title"
+msgstr "Digite um título do Questionário"
+
+#: includes/class.generate_fields.php:1879
+msgid "Create Quiz"
+msgstr "Criar um Questionário"
+
+#: includes/class.generate_fields.php:1896
+msgid "SAVE CURRICULUM"
+msgstr "SALVAR CURRÍCULO"
+
+#: includes/class.generate_fields.php:1932
+#: includes/class.generate_fields.php:1957
+msgid "Add Attachments"
+msgstr "Adicionar Anexos"
+
+#: includes/class.generate_fields.php:1959
+msgid "Add Attachment"
+msgstr "Adicionar Anexo"
+
+#: includes/class.generate_fields.php:2045
+msgid "Course Level"
+msgstr "Nível do curso"
+
+#: includes/class.generate_fields.php:2052
+msgid "Select a Course Level"
+msgstr "Selecione um nível para Curso"
+
+#: includes/class.generate_fields.php:2059
+msgid "Course Location"
+msgstr "Local do curso"
+
+#: includes/class.generate_fields.php:2066
+msgid "Select a Course location"
+msgstr "Criar um local para o curso"
+
+#: includes/class.process_fields.php:65 includes/class.process_fields.php:81
+#: includes/class.process_fields.php:97 includes/class.process_fields.php:111
+#: includes/class.process_fields.php:150 includes/class.process_fields.php:181
+#: includes/class.process_fields.php:204 includes/class.process_fields.php:230
+#: includes/class.process_fields.php:270 includes/class.process_fields.php:302
+#: includes/class.process_fields.php:323 includes/class.process_fields.php:401
+#: includes/class.process_fields.php:484 includes/class.process_fields.php:538
+#: includes/class.process_fields.php:580 includes/class.process_fields.php:621
+#: includes/class.process_fields.php:832 includes/class.process_fields.php:948
+#: includes/class.process_fields.php:969
+#: includes/class.process_fields.php:1039
+#: includes/class.process_fields.php:1086
+#: includes/class.process_fields.php:1139
+#: includes/class.process_fields.php:1165
+#: includes/class.process_fields.php:1201
+#: includes/class.process_fields.php:1250
+#: includes/class.process_fields.php:1344
+#: includes/class.process_fields.php:1440
+#: includes/class_wplms_front_end.php:1001
+#: includes/class_wplms_front_end.php:1073
+#: includes/class_wplms_front_end.php:1170
+#: includes/class_wplms_front_end.php:1294
+#: includes/class_wplms_front_end.php:1352
+#: includes/class_wplms_front_end.php:1407
+#: includes/class_wplms_front_end.php:1435
+#: includes/class_wplms_front_end.php:1469
+#: includes/class_wplms_front_end.php:1619
+#: includes/class_wplms_front_end.php:1660
+#: includes/class_wplms_front_end.php:1687
+#: includes/class_wplms_front_end.php:1969
+#: includes/class_wplms_front_end.php:2283
+#: includes/class_wplms_front_end.php:2337
+#: includes/class_wplms_front_end.php:2408
+#: includes/class_wplms_front_end.php:2537
+#: includes/class_wplms_front_end.php:2564
+#: includes/class_wplms_front_end.php:2757
+msgid "Security check Failed. Contact Administrator."
+msgstr "A verificação de segurança falhou. Contactar administrador."
+
+#: includes/class.process_fields.php:135
+#, fuzzy, php-format
+msgctxt ""
+msgid ""
+"Template with name \"%s\" already exisits , Please choose a different name."
+msgstr ""
+"Modelo com o nome \" %s\" já exisits, por favor escolha um nome diferente."
+
+#: includes/class.process_fields.php:142
+#, fuzzy
+msgctxt ""
+msgid "Template saved"
+msgstr "Modelo Salvo"
+
+#: includes/class.process_fields.php:391 includes/class.process_fields.php:474
+#: includes/class_wplms_front_end.php:1054
+#: includes/class_wplms_front_end.php:1138
+msgid "Unable to create course, contact admin !"
+msgstr "Não é possível criar curso, entre em contato com o administrador!"
+
+#: includes/class.process_fields.php:407 includes/class.process_fields.php:490
+#: includes/class.process_fields.php:544
+#: includes/class.process_fields.php:1169
+#: includes/class.process_fields.php:1205
+#: includes/class.process_fields.php:1348
+#: includes/class.process_fields.php:1446
+#: includes/class_wplms_front_end.php:1079
+#: includes/class_wplms_front_end.php:1175
+#: includes/class_wplms_front_end.php:1299
+#: includes/class_wplms_front_end.php:1357
+#: includes/class_wplms_front_end.php:1412
+#: includes/class_wplms_front_end.php:1440
+#: includes/class_wplms_front_end.php:1474
+#: includes/class_wplms_front_end.php:1625
+#: includes/class_wplms_front_end.php:1666
+#: includes/class_wplms_front_end.php:1693
+#: includes/class_wplms_front_end.php:1974
+msgid "Invalid Course id, please edit a course"
+msgstr "Id do Curso inválido, por favor editar um curso"
+
+#: includes/class.process_fields.php:418 includes/class.process_fields.php:501
+#: includes/class.process_fields.php:556
+#: includes/class.process_fields.php:1179
+#: includes/class.process_fields.php:1214
+#: includes/class.process_fields.php:1255
+#: includes/class.process_fields.php:1357
+#: includes/class.process_fields.php:1456
+#: includes/class_wplms_front_end.php:1085
+#: includes/class_wplms_front_end.php:1181
+#: includes/class_wplms_front_end.php:1305
+#: includes/class_wplms_front_end.php:1363
+#: includes/class_wplms_front_end.php:1446
+#: includes/class_wplms_front_end.php:1480
+#: includes/class_wplms_front_end.php:1631
+msgid "Invalid Course Instructor"
+msgstr "Professor do Curso Inválido"
+
+#: includes/class.process_fields.php:598
+#: includes/class.process_fields.php:1062
+msgid "FULL PREVIEW & STATS"
+msgstr "VISUALIZAÇÃO & ESTATÍSTICAS"
+
+#: includes/class.process_fields.php:604 includes/class.process_fields.php:812
+#: includes/class.process_fields.php:1022
+#: includes/class.process_fields.php:1068
+msgid "Close"
+msgstr "Fechar"
+
+#: includes/class.process_fields.php:631
+msgctxt "access denied message when user is not instructor of element"
+msgid "Access denied for element"
+msgstr "Acesso negado ao elemento"
+
+#: includes/class.process_fields.php:639
+msgid "CONTENT"
+msgstr "CONTEÚDO"
+
+#: includes/class.process_fields.php:643 includes/class.process_fields.php:979
+msgid "Enter title"
+msgstr "Inserir um título"
+
+#: includes/class.process_fields.php:655
+msgid "Category"
+msgstr "Categoria"
+
+#: includes/class.process_fields.php:663
+msgid "Select Category"
+msgstr "Selecione a categoria"
+
+#: includes/class.process_fields.php:671 includes/class.process_fields.php:982
+msgid "Content"
+msgstr "Conteúdo"
+
+#: includes/class.process_fields.php:707
+msgid "Dynamic Quiz"
+msgstr "Questionário Dinâmico"
+
+#: includes/class.process_fields.php:708
+msgid "Dynamic quiz automatically selects questions."
+msgstr "O questionário dinâmico seleciona automaticamente as perguntas."
+
+#: includes/class.process_fields.php:746
+msgid "Assignments"
+msgstr "TAREFAS"
+
+#: includes/class.process_fields.php:750
+#: includes/class_wplms_front_end.php:1831
+msgid "Unit assignments"
+msgstr "Tafera da Unidade"
+
+#: includes/class.process_fields.php:751
+msgid "Select assignment for Unit"
+msgstr "Selecione uma tarefa para o curso"
+
+#: includes/class.process_fields.php:756
+msgid "ADD ASSIGNMENT"
+msgstr "ADICIONAR NOVA TAREFA"
+
+#: includes/class.process_fields.php:770
+msgid "QUESTIONS"
+msgstr "ADICIONAR QUESTÕES"
+
+#: includes/class.process_fields.php:774
+msgid "Quiz Questions"
+msgstr "Perguntas do Questionário"
+
+#: includes/class.process_fields.php:775
+msgid "Static Quiz questions"
+msgstr "Perguntas estáticas do Questionário"
+
+#: includes/class.process_fields.php:780
+#: includes/class_wplms_front_end.php:2090
+msgid "ADD QUESTION"
+msgstr "ADICIONAR PERGUNTAS"
+
+#: includes/class.process_fields.php:794
+#: includes/class.process_fields.php:1004
+msgid "SAVE"
+msgstr "SALVAR"
+
+#: includes/class.process_fields.php:800
+#: includes/class.process_fields.php:1010
+msgid "EDIT IN ADMIN"
+msgstr "EDITAR NO ADMIN"
+
+#: includes/class.process_fields.php:806
+msgid "PREVIEW"
+msgstr "VISUALIZAÇÃO"
+
+#: includes/class.process_fields.php:939
+#: includes/class_wplms_front_end.php:2061
+msgid "Settings Saved"
+msgstr "Configurações Salvas"
+
+#: includes/class.process_fields.php:960
+msgid "Can not delete element"
+msgstr "Não é possível excluir"
+
+#: includes/class.process_fields.php:1016
+msgid "PREVIEW & STATS"
+msgstr "VISUALIZAÇÃO & ESTATÍSTICAS"
+
+#: includes/class.process_fields.php:1091
+#: includes/class.process_fields.php:1144
+msgid "Empty title."
+msgstr "Título vazio."
+
+#: includes/class.process_fields.php:1224
+msgid ""
+"Invalid product author. Instructors can only create bundles for their own "
+"products."
+msgstr ""
+
+#: includes/class.process_fields.php:1520
+msgid "Course Edit slug"
+msgstr "Editar o slug do curso"
+
+#: includes/class.templates.php:42
+msgid "Question Statement : Which is the largest continent in the World ?"
+msgstr "Enunciado da questão: Qual é o maior continente do mundo?"
+
+#: includes/class.templates.php:45
+msgid "Asia"
+msgstr "Ásia"
+
+#: includes/class.templates.php:45
+msgid "America"
+msgstr "América"
+
+#: includes/class.templates.php:45
+msgid "Europe"
+msgstr "Europa"
+
+#: includes/class.templates.php:45
+msgid "Australia"
+msgstr "Austrália"
+
+#: includes/class.templates.php:47
+msgid "Continent with Russia"
+msgstr "Continente com a Rússia"
+
+#: includes/class.templates.php:48
+msgid ""
+"A continent is one of several very large landmasses on Earth. They are "
+"generally identified by convention rather than any strict criteria, with up "
+"to seven regions commonly regarded as continents."
+msgstr ""
+"Um continente é uma das várias massas terrestres muito grandes na Terra. "
+"Eles são geralmente identificados por convenção e não por critérios "
+"estritos, com até sete regiões comumente consideradas como continentes."
+
+#: includes/class.templates.php:52
+msgid "Question Statement : This question can have multiple answers."
+msgstr "Enunciado da Questão: Essa pergunta pode ter várias respostas."
+
+#: includes/class.templates.php:55 includes/class.templates.php:74
+#: includes/class.templates.php:84 includes/class.templates.php:94
+msgid "Option 1"
+msgstr "Opção 1"
+
+#: includes/class.templates.php:55 includes/class.templates.php:74
+#: includes/class.templates.php:84 includes/class.templates.php:94
+msgid "Option 2"
+msgstr "Opção 2"
+
+#: includes/class.templates.php:55 includes/class.templates.php:74
+#: includes/class.templates.php:84 includes/class.templates.php:94
+msgid "Option 3"
+msgstr "Opção 3"
+
+#: includes/class.templates.php:55 includes/class.templates.php:74
+#: includes/class.templates.php:84 includes/class.templates.php:94
+msgid "Option 4"
+msgstr "Opção 4"
+
+#: includes/class.templates.php:57
+msgid " The answer to this quesiton is 2,3"
+msgstr " A resposta a esta questão é 2,3"
+
+#: includes/class.templates.php:58 includes/class.templates.php:67
+#: includes/class.templates.php:77 includes/class.templates.php:87
+#: includes/class.templates.php:97 includes/class.templates.php:107
+#: includes/class.templates.php:117 includes/class.templates.php:137
+msgid "Some explaination to this question."
+msgstr "Alguma explicação para esta pergunta."
+
+#: includes/class.templates.php:62
+msgid "Question Statement : True and False question type."
+msgstr "Enunciado da Questão: tipo de pergunta Verdadeiro e Falso."
+
+#: includes/class.templates.php:66
+msgid " True"
+msgstr " Verdadeiro"
+
+#: includes/class.templates.php:71
+msgid "Question Statement : Select correct answer out of the following"
+msgstr "Enunciado da Questão: Selecione a resposta correta dentre as seguintes"
+
+#: includes/class.templates.php:74
+msgid "Option 5"
+msgstr "Opção 5"
+
+#: includes/class.templates.php:74
+msgid "Option 6"
+msgstr "Opção 6"
+
+#: includes/class.templates.php:76
+msgid " Option 1 and Option 4"
+msgstr " Opção 1 e Opção 4"
+
+#: includes/class.templates.php:81 includes/class.templates.php:91
+msgid ""
+"Question Statement : Arrange the below options in following order: 4,3,2,1"
+msgstr ""
+"Enunciado da Questão: Organize as opções abaixo na seguinte ordem: 4, 3, 2, 1"
+
+#: includes/class.templates.php:91
+msgid "First Order"
+msgstr "Primeira Ordem"
+
+#: includes/class.templates.php:91
+msgid "Second Order"
+msgstr "Segunda Ordem"
+
+#: includes/class.templates.php:91
+msgid "Third order"
+msgstr "Terceira Ordem"
+
+#: includes/class.templates.php:91
+msgid "Fourth Order"
+msgstr "Quarta Ordem"
+
+#: includes/class.templates.php:101
+msgid "Question Statement : Fill in the blank"
+msgstr "Enunciado da Questão: Preencha o espaço em branco"
+
+#: includes/class.templates.php:106
+msgid "some value"
+msgstr "algum valor"
+
+#: includes/class.templates.php:111
+msgid "Question Statement : Enter the answer in below text box"
+msgstr "Enunciado da Questão: Digite a resposta na caixa de texto abaixo"
+
+#: includes/class.templates.php:115 includes/class.templates.php:135
+msgid "some answer"
+msgstr "alguma resposta"
+
+#: includes/class.templates.php:116
+msgid "some hint"
+msgstr "alguma dica"
+
+#: includes/class.templates.php:121
+msgid ""
+"Survey Question : How likely are you to going to pick the number 7 out of 0 "
+"to 10 ?"
+msgstr ""
+"Pergunta de Pesquisa: Qual é a probabilidade de você escolher o número 7 de "
+"0 a 10?"
+
+#: includes/class.templates.php:126
+msgid "Help text for survey question. Each choice has marks used to end result"
+msgstr ""
+"Texto de ajuda para a pergunta da pesquisa. Cada escolha tem marcas usadas "
+"para o resultado final"
+
+#: includes/class.templates.php:127
+msgid "Scores are connected with the marked answer"
+msgstr "As pontuações são conectados com a resposta marcada"
+
+#: includes/class.templates.php:131
+msgid "Question Statement :Enter the answer in below text area"
+msgstr "Enunciado da Questão: Digite a resposta na área de texto abaixo"
+
+#: includes/class_wplms_front_end.php:124
+msgid "COURSE EVALUATED "
+msgstr ""
+
+#: includes/class_wplms_front_end.php:161
+msgid "Congratulations ! You've earned the "
+msgstr ""
+
+#: includes/class_wplms_front_end.php:161
+#, fuzzy
+msgid "Badge"
+msgstr "Título do Medalha"
+
+#: includes/class_wplms_front_end.php:185
+msgid ""
+"Congratulations ! You've successfully passed the course and earned the "
+"Course Completion Certificate !"
+msgstr ""
+
+#: includes/class_wplms_front_end.php:185
+#, fuzzy
+msgid "View Certificate"
+msgstr "Certificado do Curso"
+
+#: includes/class_wplms_front_end.php:194
+#, php-format
+msgid "You've obtained %s in course %s "
+msgstr ""
+
+#: includes/class_wplms_front_end.php:200
+msgid "COURSE SUBMITTED FOR EVALUATION"
+msgstr ""
+
+#: includes/class_wplms_front_end.php:216
+msgid "ASSIGNMENT"
+msgstr "ADICIONAR NOVA TAREFA "
+
+#: includes/class_wplms_front_end.php:219
+#, fuzzy
+msgid "QUIZ"
+msgstr "ADICIONAR QUESTIONÁRIO"
+
+#: includes/class_wplms_front_end.php:222
+msgid "PLEASE COMPLETE THE "
+msgstr ""
+
+#: includes/class_wplms_front_end.php:373
+msgid "The Upload file must be zip archive"
+msgstr "O arquivo de upload deve ser arquivo zip"
+
+#: includes/class_wplms_front_end.php:383
+msgid "File too big"
+msgstr "Arquivo muito grande"
+
+#: includes/class_wplms_front_end.php:455
+msgid "Please upload zip file, Index.html file not found in package "
+msgstr ""
+"Por favor faça o upload de arquivo zip. Arquivo index.html não foi "
+"encontrado neste pacote "
+
+#: includes/class_wplms_front_end.php:459
+msgid "Upload failed !"
+msgstr "O upload falhou!"
+
+#: includes/class_wplms_front_end.php:491
+msgid "user not logged in"
+msgstr "usuário não logado"
+
+#: includes/class_wplms_front_end.php:580
+#, fuzzy
+msgctxt ""
+msgid "Remove this package from course"
+msgstr "Remover este pacote do curso"
+
+#: includes/class_wplms_front_end.php:582
+#: includes/class_wplms_front_end.php:647 wplms-front-end.php:117
+#, fuzzy
+msgctxt ""
+msgid "View this package"
+msgstr "Ver este pacote"
+
+#: includes/class_wplms_front_end.php:588
+#, fuzzy
+msgctxt ""
+msgid "Upload new package"
+msgstr "Carregar novo pacote"
+
+#: includes/class_wplms_front_end.php:595
+#, fuzzy
+msgctxt ""
+msgid "Upload zip"
+msgstr "Carregar zip"
+
+#: includes/class_wplms_front_end.php:596
+#, fuzzy
+msgctxt ""
+msgid "or"
+msgstr "ou"
+
+#: includes/class_wplms_front_end.php:597
+#, fuzzy
+msgctxt ""
+msgid "Select Files"
+msgstr "Selecione os arquivos"
+
+#: includes/class_wplms_front_end.php:604
+#, fuzzy
+msgctxt ""
+msgid "Please do not close the window until process is completed"
+msgstr "Por favor, não feche a janela até que o processo seja concluído"
+
+#: includes/class_wplms_front_end.php:634
+msgctxt ""
+msgid "Select package type"
+msgstr "Selecionar o tipo da questão"
+
+#: includes/class_wplms_front_end.php:635
+msgid "Default (xAPI or None)"
+msgstr ""
+
+#: includes/class_wplms_front_end.php:635
+msgid "SCORM 2004"
+msgstr ""
+
+#: includes/class_wplms_front_end.php:635
+msgid "SCORM 1.1, 1.2"
+msgstr ""
+
+#: includes/class_wplms_front_end.php:637
+msgctxt ""
+msgid "Select from existing packages:"
+msgstr "Selecione um pacote existente:"
+
+#: includes/class_wplms_front_end.php:645
+msgctxt ""
+msgid "Delete this package"
+msgstr "Excluir este pacote"
+
+#: includes/class_wplms_front_end.php:646
+msgctxt ""
+msgid "Set this as course package"
+msgstr "Definir como pacote de curso"
+
+#: includes/class_wplms_front_end.php:753
+#: includes/class_wplms_front_end.php:756
+msgid "Make sure there is no ongoing upload process"
+msgstr "Certifique-se de que não há processo de upload em andamento"
+
+#: includes/class_wplms_front_end.php:794
+msgctxt "alert message when no space on vimeo left"
+msgid "File size exceeded the free space left on vimeo"
+msgstr "Tamanho do arquivo excede o espaço livre no Vimeo"
+
+#: includes/class_wplms_front_end.php:826
+msgid "Are you sure you want to quit uploading?"
+msgstr "Tem certeza de que deseja parar de carregar?"
+
+#: includes/class_wplms_front_end.php:874
+msgid "File type not allowed"
+msgstr "Tipo de arquivo não permitido"
+
+#: includes/class_wplms_front_end.php:926
+msgid "Create a Course"
+msgstr "Criar um Curso"
+
+#: includes/class_wplms_front_end.php:933
+msgid "COURSE CREATION ONLY ALLOWED FOR INSTRUCTORS & ADMINISTRATORS"
+msgstr "CRIAÇÃO DE CURSO SÓ É PERMITIDO PARA INSTRUTORES E ADMINSITADORES"
+
+#: includes/class_wplms_front_end.php:945
+msgid "Unable to edit Course, please contact Site Administrator"
+msgstr ""
+"Não é possível editar o curso, por favor, contate o administração do site"
+
+#: includes/class_wplms_front_end.php:948
+msgid "Incorrect Action, please contact Site Administrator"
+msgstr "Ação incorreta, por favor, contate o administração do site"
+
+#: includes/class_wplms_front_end.php:985
+msgid "Edit Course"
+msgstr "Editar Curso"
+
+#: includes/class_wplms_front_end.php:1025
+#: includes/class_wplms_front_end.php:1110
+msgid "Unable to create a new Course Category. Contact Admin !"
+msgstr ""
+"Não é possível criar uma nova categoria de curso. Contactar Administrador!"
+
+#: includes/class_wplms_front_end.php:1289
+msgid "Can not have a blank Unit "
+msgstr "Não pode ter uma Unidade em branco "
+
+#: includes/class_wplms_front_end.php:1325
+msgid "Preview Unit"
+msgstr "Pré-visualizar Unidade"
+
+#: includes/class_wplms_front_end.php:1347
+msgid "Can not have a Blank Quiz"
+msgstr "Não pode ter um Questionário em branco"
+
+#: includes/class_wplms_front_end.php:1402
+#: includes/class_wplms_front_end.php:2403
+msgid "Can not delete"
+msgstr "Não é possível excluir"
+
+#: includes/class_wplms_front_end.php:1418
+#: includes/class_wplms_front_end.php:2414
+msgid "Instructor can not delete this unit/quiz"
+msgstr "Professor não pode excluir esta unidade/questionário"
+
+#: includes/class_wplms_front_end.php:1426
+#: includes/class_wplms_front_end.php:2422
+msgid "Unable to delete"
+msgstr "Não é possível excluir"
+
+#: includes/class_wplms_front_end.php:1553
+msgid "Invalid Product specs"
+msgstr "Especificações do produto inválida"
+
+#: includes/class_wplms_front_end.php:1605
+msgid "Unable to create product and pricing for course"
+msgstr "Não é possível criar produtos e preços para o curso"
+
+#: includes/class_wplms_front_end.php:1643
+msgid "Course successfully updated."
+msgstr ""
+"Curso atualizado com sucesso. Em até 48 horas faremos a aprovação do curso."
+
+#: includes/class_wplms_front_end.php:1647
+#: includes/class_wplms_front_end.php:1675
+#: includes/class_wplms_front_end.php:1751
+msgid "Unable to update Course, contact Site admin"
+msgstr "Não é possível atualizar o curso, contactar administrador do site"
+
+#: includes/class_wplms_front_end.php:1673
+msgid "Course Offline."
+msgstr "Curso offline."
+
+#: includes/class_wplms_front_end.php:1698
+msgid "Course deletion not allowed"
+msgstr "Eliminação do Curso não permitidos"
+
+#: includes/class_wplms_front_end.php:1709
+msgid "Unable to delete curriclum"
+msgstr "Não é possível excluir Conteúdo"
+
+#: includes/class_wplms_front_end.php:1742
+msgid "Course Deleted."
+msgstr "Curso Excluídos."
+
+#: includes/class_wplms_front_end.php:1792
+msgid "Unit Settings"
+msgstr "Definições da unidade"
+
+#: includes/class_wplms_front_end.php:1795
+msgid "Unit Type"
+msgstr "Tipo da unidade"
+
+#: includes/class_wplms_front_end.php:1796
+msgid "Select Unit Type"
+msgstr "Selecionar o tipo da unidade"
+
+#: includes/class_wplms_front_end.php:1800
+msgid "Video"
+msgstr "Vídeo"
+
+#: includes/class_wplms_front_end.php:1801
+msgid "Audio"
+msgstr "Áudio"
+
+#: includes/class_wplms_front_end.php:1802
+msgid "Podcast"
+msgstr "Podcast"
+
+#: includes/class_wplms_front_end.php:1803
+msgid "General"
+msgstr "Geral"
+
+#: includes/class_wplms_front_end.php:1811
+msgid "Free Unit"
+msgstr "Unidade Grátis"
+
+#: includes/class_wplms_front_end.php:1812
+msgid "Make Unit Free"
+msgstr "Tornar Unidade Grátis"
+
+#: includes/class_wplms_front_end.php:1823
+msgid "Unit Duration"
+msgstr "Duração da Unidade"
+
+#: includes/class_wplms_front_end.php:1824
+msgid "Duration of Unit"
+msgstr "Duração da Unidade"
+
+#: includes/class_wplms_front_end.php:1832
+msgid "Connect Assignments"
+msgstr "Conectar uma Tarefa"
+
+#: includes/class_wplms_front_end.php:1850
+#: includes/class_wplms_front_end.php:1870
+msgid "Edit Assignment"
+msgstr "Editar Tarefa"
+
+#: includes/class_wplms_front_end.php:1851
+#: includes/class_wplms_front_end.php:1871
+msgid "Preview Assignment"
+msgstr "Pré-Visualização do trabalho"
+
+#: includes/class_wplms_front_end.php:1861
+#: includes/class_wplms_front_end.php:1903
+#: includes/class_wplms_front_end.php:2120
+#: includes/class_wplms_front_end.php:2646
+msgid "None"
+msgstr "Nenhum"
+
+#: includes/class_wplms_front_end.php:1882
+msgid "ADD EXISTING ASSIGNMENT"
+msgstr "ADICIONAR NOVA TAREFA"
+
+#: includes/class_wplms_front_end.php:1883
+msgid "ADD NEW ASSIGNMENT"
+msgstr "ADICIONAR NOVA TAREFA"
+
+#: includes/class_wplms_front_end.php:1884
+msgid "Add the Assignment title"
+msgstr "Adicionar o título da Tarefa"
+
+#: includes/class_wplms_front_end.php:1888
+msgid "Publish"
+msgstr "Publicar"
+
+#: includes/class_wplms_front_end.php:1900
+msgid "Unit Forum"
+msgstr "Fórum da Unidade"
+
+#: includes/class_wplms_front_end.php:1901
+msgid "Connect a Forum"
+msgstr "Conecte um Fórum"
+
+#: includes/class_wplms_front_end.php:1904
+msgid "Add new child forum in Course forum"
+msgstr "Adicionar novo fórum filho no fórum do Curso"
+
+#: includes/class_wplms_front_end.php:1905
+msgid "Add new forum"
+msgstr "Adicionar novo fórum"
+
+#: includes/class_wplms_front_end.php:1925
+msgid "SAVE UNIT SETTINGS"
+msgstr "SALVE CONFIGURAÇÕES DA UNIDADE"
+
+#: includes/class_wplms_front_end.php:1979
+msgid "Invalid Unit id, please edit a course"
+msgstr "Inválido ID da unidade, por favor edite um curso"
+
+#: includes/class_wplms_front_end.php:1985
+msgid "Invalid Unit Instructor"
+msgstr "Professor da unidade inválido"
+
+#: includes/class_wplms_front_end.php:2063
+msgid "Unable to save settings"
+msgstr "Não foi possível salvar as configurações"
+
+#: includes/class_wplms_front_end.php:2087
+msgid "Manage Quiz Questions"
+msgstr "Gerenciar Perguntas do Questionário"
+
+#: includes/class_wplms_front_end.php:2101
+#: includes/class_wplms_front_end.php:2296
+msgid "Question "
+msgstr "Pergunta "
+
+#: includes/class_wplms_front_end.php:2105
+#: includes/class_wplms_front_end.php:2300
+msgid "Edit Question"
+msgstr "Editar Pergunta"
+
+#: includes/class_wplms_front_end.php:2106
+msgid "Preview Question"
+msgstr "Visualizar a pergunta"
+
+#: includes/class_wplms_front_end.php:2111
+#: includes/class_wplms_front_end.php:2305
+msgid "MARKS : "
+msgstr "MARCAS : "
+
+#: includes/class_wplms_front_end.php:2121
+msgid "ADD A NEW QUESTION"
+msgstr "ADICIONAR NOVA PERGUNTA"
+
+#: includes/class_wplms_front_end.php:2137
+msgid "Marks : "
+msgstr "Marcas : "
+
+#: includes/class_wplms_front_end.php:2139
+msgid "Question Title : "
+msgstr "Título da Pergunta : "
+
+#: includes/class_wplms_front_end.php:2140
+msgid "Enter title for reference"
+msgstr "Digite o título para referência"
+
+#: includes/class_wplms_front_end.php:2144
+msgid "Publish Question"
+msgstr "Publicar Pergunta"
+
+#: includes/class_wplms_front_end.php:2151
+#: includes/class_wplms_front_end.php:2274
+msgid "SAVE QUIZ SETTINGS"
+msgstr "SALVAR CONFIGURAÇÕES DO QUESTIONÁRIO"
+
+#: includes/class_wplms_front_end.php:2174
+msgid "Enter a Quiz sub-title"
+msgstr "Digite um subtítulo do Questionário"
+
+#: includes/class_wplms_front_end.php:2184
+msgid "Enter a Quiz Completion message"
+msgstr "Digite uma mensagem ao concluir o Questionário"
+
+#: includes/class_wplms_front_end.php:2190
+msgid "Quiz Settings"
+msgstr "Configurações do Questionário"
+
+#: includes/class_wplms_front_end.php:2194
+msgid "QUIZ SUB-TITLE"
+msgstr "SUBTÍTULO DO QUESTIONÁRIO"
+
+#: includes/class_wplms_front_end.php:2199
+msgid "CONNECTED COURSE"
+msgstr "CURSO CONECTADO"
+
+#: includes/class_wplms_front_end.php:2214
+msgid "QUIZ DURATION"
+msgstr "DURAÇÃO DO QUESTIONÁRIO"
+
+#: includes/class_wplms_front_end.php:2217
+msgid "QUIZ EVALUATION"
+msgstr "AVALIAÇÃO DO QUESTIONÁRIO"
+
+#: includes/class_wplms_front_end.php:2220
+msgid "AUTO"
+msgstr "AUTO"
+
+#: includes/class_wplms_front_end.php:2226
+msgid "QUIZ QUESTIONS TYPE"
+msgstr "TIPOS DE QUESTÕES DO QUESTIONÁRIO"
+
+#: includes/class_wplms_front_end.php:2229
+msgid "DYNAMIC"
+msgstr "DINÂMICO"
+
+#: includes/class_wplms_front_end.php:2235
+msgid "SELECT QUESTION TAGS"
+msgstr "SELECIONE A TAG DA QUESTÃO"
+
+#: includes/class_wplms_front_end.php:2246
+msgid "NUMER OF QUESTIONS"
+msgstr "NÚMERO DE QUESTÕES"
+
+#: includes/class_wplms_front_end.php:2249
+msgid "MARKS PER QUESTION"
+msgstr "PONTOS POR QUESTÃO"
+
+#: includes/class_wplms_front_end.php:2252
+msgid "QUIZ RETAKES"
+msgstr "RETOMADAS DO QUESTIONÁRIO"
+
+#: includes/class_wplms_front_end.php:2253
+msgid " Retakes"
+msgstr " Retomadas"
+
+#: includes/class_wplms_front_end.php:2255
+msgid "QUESTIONS ORDER"
+msgstr "ORDEM DAS QUESTÕES"
+
+#: includes/class_wplms_front_end.php:2258
+msgid "RANDOM"
+msgstr "RANDÔMICO"
+
+#: includes/class_wplms_front_end.php:2260
+msgid "SEQUENTIAL"
+msgstr "SEQUENCIAL"
+
+#: includes/class_wplms_front_end.php:2264
+msgid "QUIZ COMPLETION MESSAGE"
+msgstr "MENSAGEM DE CONCLUSÃO QUESTIONÁRIO"
+
+#: includes/class_wplms_front_end.php:2289
+#, php-format
+msgid "Add Content for %s"
+msgstr "Adicionar conteúdo para%s"
+
+#: includes/class_wplms_front_end.php:2342
+msgid "Invalid Quiz"
+msgstr "Questionário Inválido"
+
+#: includes/class_wplms_front_end.php:2380
+msgid "Quiz Settings saved"
+msgstr "Configurações do Questionário salvas"
+
+#: includes/class_wplms_front_end.php:2455
+msgid "QUESTION SETTINGS"
+msgstr "CONFIGURAÇÕES DA PERGUNTA"
+
+#: includes/class_wplms_front_end.php:2457
+msgid "Question Type"
+msgstr "Tipo da Pergunta"
+
+#: includes/class_wplms_front_end.php:2478
+msgid "Click to select as Correct answer"
+msgstr "Clique para marcar resposta como correta"
+
+#: includes/class_wplms_front_end.php:2487
+msgid "Correct Answer"
+msgstr "Resposta Correta"
+
+#: includes/class_wplms_front_end.php:2488
+msgid "Answer Hint"
+msgstr "Dica da Resposta"
+
+#: includes/class_wplms_front_end.php:2489
+msgid "Answer Explanation"
+msgstr "﻿Explicação da Resposta"
+
+#: includes/class_wplms_front_end.php:2497
+msgid "SAVE QUESTION SETTINGS"
+msgstr "SALVAR CONFIGURAÇÕES DA PERGUNTA"
+
+#: includes/class_wplms_front_end.php:2532
+msgid "Unable to save, incorrect question"
+msgstr "Não foi possível salvar, pergunta errada"
+
+#: includes/class_wplms_front_end.php:2557
+msgid "Question settings successfully saved"
+msgstr "Configurações da Pergunta salvas com sucesso"
+
+#: includes/class_wplms_front_end.php:2571
+msgid "Unable to save, incorrect unit"
+msgstr "Não foi possível salvar, módulo errado"
+
+#: includes/class_wplms_front_end.php:2615
+msgid "ASSIGNMENT SETTINGS"
+msgstr "CONFIGURAÇÕES DA TAREFAS"
+
+#: includes/class_wplms_front_end.php:2619
+msgid "ASSIGNMENT SUB-TITLE"
+msgstr "SUBTÍTULO DA TAREFA"
+
+#: includes/class_wplms_front_end.php:2625
+msgid "ASSIGNMENT MARKS"
+msgstr "PONTUAÇÃO DA TAREFA"
+
+#: includes/class_wplms_front_end.php:2626
+msgid "Assignment Maximum Marks"
+msgstr "Nota Máximo Tarefa"
+
+#: includes/class_wplms_front_end.php:2626
+msgid "MARKS"
+msgstr "PONTOS"
+
+#: includes/class_wplms_front_end.php:2629
+msgid "ASSIGNMENT DURATION"
+msgstr "DURAÇÃO DA TAREFA"
+
+#: includes/class_wplms_front_end.php:2630
+msgid "Enter Assignment Duration"
+msgstr "Digite a duração da tarefa"
+
+#: includes/class_wplms_front_end.php:2632
+msgid "ASSIGNMENT EVALUATION"
+msgstr "AVALIAÇÃO DA TAREFA"
+
+#: includes/class_wplms_front_end.php:2633
+msgid "Include in Course Evaluation"
+msgstr "Incluir na Avaliação do Curso"
+
+#: includes/class_wplms_front_end.php:2643
+msgid "ASSIGNMENT COURSE"
+msgstr "TAREFA DO CURSO"
+
+#: includes/class_wplms_front_end.php:2644
+msgid "Select Assignment Course"
+msgstr "Selecione Tarefas do Curso"
+
+#: includes/class_wplms_front_end.php:2661
+msgid "ASSIGNMENT SUBMISISON TYPE"
+msgstr "TIPOS DE TAREFAS ENVIADAS"
+
+#: includes/class_wplms_front_end.php:2663
+msgid "UPLOAD"
+msgstr "UPLOAD"
+
+#: includes/class_wplms_front_end.php:2664
+msgid "TEXTAREA"
+msgstr "ÁREA DE TEXTO"
+
+#: includes/class_wplms_front_end.php:2667
+msgid "ATTACHMENT TYPE"
+msgstr "TIPO DE ANEXO"
+
+#: includes/class_wplms_front_end.php:2712
+msgid "Attachment Size"
+msgstr "Tamanho do Anexo"
+
+#: includes/class_wplms_front_end.php:2713
+msgid "Maximum attachment size"
+msgstr "Tamanho máximo do anexo"
+
+#: includes/class_wplms_front_end.php:2713
+msgid " MBs"
+msgstr " MBs"
+
+#: includes/class_wplms_front_end.php:2762
+msgid "Invalid details"
+msgstr "Detalhes inválidos"
+
+#: includes/class_wplms_front_end.php:2768
+msgid "Invalid Assignment author"
+msgstr "Autor da Tarefa inválido"
+
+#: includes/class_wplms_front_end.php:2777
+msgid "SETTINGS SAVED"
+msgstr "CONFIGURAÇÕES SALVAS"
+
+#: includes/class_wplms_front_end.php:2789
+msgid "ADD PACKAGE"
+msgstr "ADCIONAR PACOTE"
+
+#: wplms-front-end.php:74
+msgid "Please change the course title"
+msgstr "Mude o Título do Curso"
+
+#: wplms-front-end.php:75
+msgid "This will create a new course in the site, do you want to continue ?"
+msgstr "Isto irá criar um novo curso no site, você quer continuar?"
+
+#: wplms-front-end.php:76
+msgid "Yes, create a new course"
+msgstr "Sim, criar um novo curso"
+
+#: wplms-front-end.php:77
+msgid ""
+"This will overwrite the previous course settings, do you want to continue ?"
+msgstr ""
+"Isso irá substituir as configurações do curso anterior, que você quer "
+"continuar?"
+
+#: wplms-front-end.php:78
+msgid "Save course"
+msgstr "Salvar curso"
+
+#: wplms-front-end.php:79
+msgid "This will create a new unit in the site, do you want to continue ?"
+msgstr "Isto irá criar uma nova unidade no site, você quer continuar?"
+
+#: wplms-front-end.php:80
+msgid "Yes, create a new unit"
+msgstr "Sim, criar uma nova unidade"
+
+#: wplms-front-end.php:81
+msgid ""
+"This will overwrite the existing unit settings, do you want to continue ?"
+msgstr ""
+"Isso irá substituir as definições da unidade existente, você quer continuar?"
+
+#: wplms-front-end.php:82
+msgid "Yes, save unit settings"
+msgstr "Sim, salvar definições da unidade"
+
+#: wplms-front-end.php:83
+msgid "This will create a new question in the site, do you want to continue ?"
+msgstr "Isto irá criar uma nova pergunta no site, você quer continuar?"
+
+#: wplms-front-end.php:84
+msgid "Yes, create a new question"
+msgstr "Sim, criar uma nova pergunta"
+
+#: wplms-front-end.php:85
+msgid "This will create a new quiz in the site, do you want to continue ?"
+msgstr "Isto irá criar um novo questionário no site, você quer continuar?"
+
+#: wplms-front-end.php:86
+msgid "Yes, create a new quiz"
+msgstr "Sim, criar um novo questionário"
+
+#: wplms-front-end.php:87
+msgid ""
+"This will overwrite the existing quiz settings, do you want to continue ?"
+msgstr ""
+"Isso irá substituir as definições existentes do questionário, você quer "
+"continuar?"
+
+#: wplms-front-end.php:88
+msgid "Yes, save quiz settings"
+msgstr "Sim, salvar as configurações do questionário"
+
+#: wplms-front-end.php:89
+msgid "This will delete the element from your site, do you want to continue ?"
+msgstr ""
+"Isto irá apagar a unidade/questionário do seu site, você quer continuar?"
+
+#: wplms-front-end.php:90
+msgid "Continue"
+msgstr "Continuar"
+
+#: wplms-front-end.php:91
+msgid "This will overwrite the previous settings, do you want to continue ?"
+msgstr "Isso irá substituir as definições anteriores, que você quer continuar?"
+
+#: wplms-front-end.php:92
+msgid "Save"
+msgstr "Salvar"
+
+#: wplms-front-end.php:93
+msgid ""
+"This will create a new assignment in the site, do you want to continue ?"
+msgstr "Isto irá criar uma nova tarefa no site, você quer continuar?"
+
+#: wplms-front-end.php:94
+msgid "Yes, create a new assignment"
+msgstr "Sim, criar uma nova Tarefa"
+
+#: wplms-front-end.php:95
+msgid ""
+"Are you sure you want to take course offline, this will remove the course "
+"from course directory and it will not be visible to your students"
+msgstr ""
+"Tem certeza que deseja tornar o curso off-line, isto irá remover o curso do "
+"diretório de cursos e não será visível para os seus alunos"
+
+#: wplms-front-end.php:96
+msgid "Are you sure you want to delete this course ?"
+msgstr "Tem certeza de que deseja excluir este curso?"
+
+#: wplms-front-end.php:98
+msgid "This will create a new group in the site, do you want to continue ?"
+msgstr "Isto irá criar um novo grupo no site, você quer continuar?"
+
+#: wplms-front-end.php:99 wplms-front-end.php:100
+msgid "This will create a new forum in the site, do you want to continue ?"
+msgstr "Isto irá criar um novo fórum no site, você quer continuar?"
+
+#: wplms-front-end.php:101 wplms-front-end.php:106
+msgctxt ""
+msgid "Save course template"
+msgstr "Salvar modelo de curso"
+
+#: wplms-front-end.php:102
+msgctxt ""
+msgid "Saved Course Templates"
+msgstr "Modelos de cursos salvos"
+
+#: wplms-front-end.php:103
+msgctxt ""
+msgid "Course Template Name"
+msgstr "Nome do modelo de curso"
+
+#: wplms-front-end.php:104
+msgctxt ""
+msgid "Course Template Description"
+msgstr "Descrição do modelo de treianmento"
+
+#: wplms-front-end.php:105
+msgctxt ""
+msgid ""
+"Save this course as a template. All the values are saved as defaults and you "
+"can control the visibility of the settings in the template."
+msgstr ""
+"Salve este curso como um modelo. Todos os valores são salvos como padrões e "
+"você pode controlar a visibilidade das configurações no modelo."
+
+#: wplms-front-end.php:107
+msgctxt ""
+msgid "Saving..."
+msgstr "Salvando..."
+
+#: wplms-front-end.php:108
+msgctxt ""
+msgid "Please provide template name"
+msgstr "Por favor, forneça o nome do Modelo"
+
+#: wplms-front-end.php:109
+msgctxt ""
+msgid "Create your own Course"
+msgstr "Criar seu próprio Curso"
+
+#: wplms-front-end.php:110
+msgctxt ""
+msgid "Upload course package"
+msgstr "Carregar pacote de curso"
+
+#: wplms-front-end.php:111
+msgctxt ""
+msgid "Pacakage uploaded and has been set as course package"
+msgstr "Pacote carregado e foi definido como pacote de curso"
+
+#: wplms-front-end.php:112
+msgctxt ""
+msgid "Are you sure you want to set this as course package?"
+msgstr "Tem certeza de que deseja definir este como pacote de curso?"
+
+#: wplms-front-end.php:113
+msgctxt ""
+msgid "Are you sure you want to delete this package?"
+msgstr "Tem certeza de que deseja excluir este pacote?"
+
+#: wplms-front-end.php:114
+msgctxt ""
+msgid "Are you sure you want to remove this package from course?"
+msgstr "Tem certeza de que deseja remover este pacote do curso?"
+
+#: wplms-front-end.php:115
+msgctxt ""
+msgid "Are you sure you want to apply this template?"
+msgstr "Tem a certeza de que pretende aplicar este modelo?"
+
+#: wplms-front-end.php:116
+msgctxt ""
+msgid "Yes"
+msgstr "Sim"
+
+#: wplms-front-end.php:118
+msgctxt ""
+msgid "Remove this package"
+msgstr "Remover este pacote "
+
+#: wplms-front-end.php:119
+msgctxt ""
+msgid "Are you sure you want to delete this template"
+msgstr "Tem certeza de que deseja excluir este modelo "
+
+#~ msgid "WPLMS Front End"
+#~ msgstr "WPLMS Front End"
+
+#~ msgid "FRONT END Content Creation plugin for WPLMS"
+#~ msgstr "Plugin de Criação de conteúdo FRONT END do WPLMS"
+
+#~ msgid "http://www.Vibethemes.com"
+#~ msgstr "http://www.vibethemes.com"
+
+#~ msgid "VibeThemes"
+#~ msgstr "VibeThemes"
+
+#~ msgid "http://www.vibethemes.com"
+#~ msgstr "http://www.vibethemes.com"
